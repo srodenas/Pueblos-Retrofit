@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.pmdm.virgen.pueblosconnavigationdrawer2.app-mergeDebugResources-42:/values-hdpi-v4/values-hdpi-v4.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\santi\\.gradle\\caches\\transforms-3\\700810d9cc4bd26f9b42fd92fa68f35d\\transformed\\appcompat-1.5.1\\res\\values-hdpi-v4\\values-hdpi-v4.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "6",
+                        "endColumns": "13",
+                        "endOffsets": "327"
+                    }
+                }
+            ]
+        }
+    ]
+}

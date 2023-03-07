@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.pmdm.virgen.pueblosconnavigationdrawer2.app-mergeDebugResources-42:/values-watch-v21/values-watch-v21.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\santi\\.gradle\\caches\\transforms-3\\700810d9cc4bd26f9b42fd92fa68f35d\\transformed\\appcompat-1.5.1\\res\\values-watch-v21\\values-watch-v21.xml",
+                    "from": {
+                        "startLines": "2,6,10",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,271,499",
+                        "endLines": "5,9,13",
+                        "endColumns": "12,12,12",
+                        "endOffsets": "266,494,724"
+                    }
+                }
+            ]
+        }
+    ]
+}

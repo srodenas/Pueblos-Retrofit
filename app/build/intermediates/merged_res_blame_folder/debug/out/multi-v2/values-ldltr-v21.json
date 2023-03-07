@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.pmdm.virgen.pueblosconnavigationdrawer2.app-mergeDebugResources-42:/values-ldltr-v21/values-ldltr-v21.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\santi\\.gradle\\caches\\transforms-3\\700810d9cc4bd26f9b42fd92fa68f35d\\transformed\\appcompat-1.5.1\\res\\values-ldltr-v21\\values-ldltr-v21.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "112",
+                        "endOffsets": "163"
+                    }
+                }
+            ]
+        }
+    ]
+}

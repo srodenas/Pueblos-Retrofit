@@ -1,0 +1,131 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.pmdm.virgen.pueblosconnavigationdrawer2"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="28"
+8-->C:\Users\santi\Desktop\PUEBLOS adaptado de Realm a Retrofit\pueblos con Retrofit adaptado\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="32" />
+9-->C:\Users\santi\Desktop\PUEBLOS adaptado de Realm a Retrofit\pueblos con Retrofit adaptado\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->C:\Users\santi\Desktop\PUEBLOS adaptado de Realm a Retrofit\pueblos con Retrofit adaptado\app\src\main\AndroidManifest.xml:5:5-83
+11-->C:\Users\santi\Desktop\PUEBLOS adaptado de Realm a Retrofit\pueblos con Retrofit adaptado\app\src\main\AndroidManifest.xml:5:22-64
+12    <uses-permission android:name="android.permission.CAMERA" />
+12-->C:\Users\santi\Desktop\PUEBLOS adaptado de Realm a Retrofit\pueblos con Retrofit adaptado\app\src\main\AndroidManifest.xml:6:5-65
+12-->C:\Users\santi\Desktop\PUEBLOS adaptado de Realm a Retrofit\pueblos con Retrofit adaptado\app\src\main\AndroidManifest.xml:6:22-62
+13    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+13-->C:\Users\santi\Desktop\PUEBLOS adaptado de Realm a Retrofit\pueblos con Retrofit adaptado\app\src\main\AndroidManifest.xml:7:5-81
+13-->C:\Users\santi\Desktop\PUEBLOS adaptado de Realm a Retrofit\pueblos con Retrofit adaptado\app\src\main\AndroidManifest.xml:7:22-78
+14    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+14-->C:\Users\santi\Desktop\PUEBLOS adaptado de Realm a Retrofit\pueblos con Retrofit adaptado\app\src\main\AndroidManifest.xml:8:5-80
+14-->C:\Users\santi\Desktop\PUEBLOS adaptado de Realm a Retrofit\pueblos con Retrofit adaptado\app\src\main\AndroidManifest.xml:8:22-77
+15    <uses-permission android:name="android.permission.MANAGE_EXTERNAL_STORAGE" />
+15-->C:\Users\santi\Desktop\PUEBLOS adaptado de Realm a Retrofit\pueblos con Retrofit adaptado\app\src\main\AndroidManifest.xml:9:5-110
+15-->C:\Users\santi\Desktop\PUEBLOS adaptado de Realm a Retrofit\pueblos con Retrofit adaptado\app\src\main\AndroidManifest.xml:9:22-79
+16
+17    <application
+17-->C:\Users\santi\Desktop\PUEBLOS adaptado de Realm a Retrofit\pueblos con Retrofit adaptado\app\src\main\AndroidManifest.xml:12:5-44:19
+18        android:name="com.pmdm.virgen.pueblosconnavigationdrawer2.aplicacion.MiApp"
+18-->C:\Users\santi\Desktop\PUEBLOS adaptado de Realm a Retrofit\pueblos con Retrofit adaptado\app\src\main\AndroidManifest.xml:14:9-41
+19        android:allowBackup="true"
+19-->C:\Users\santi\Desktop\PUEBLOS adaptado de Realm a Retrofit\pueblos con Retrofit adaptado\app\src\main\AndroidManifest.xml:15:9-35
+20        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+20-->[androidx.core:core:1.8.0] C:\Users\santi\.gradle\caches\transforms-3\434770190f62254a8a1bc99defa74148\transformed\core-1.8.0\AndroidManifest.xml:24:18-86
+21        android:dataExtractionRules="@xml/data_extraction_rules"
+21-->C:\Users\santi\Desktop\PUEBLOS adaptado de Realm a Retrofit\pueblos con Retrofit adaptado\app\src\main\AndroidManifest.xml:16:9-65
+22        android:debuggable="true"
+23        android:extractNativeLibs="false"
+24        android:fullBackupContent="@xml/backup_rules"
+24-->C:\Users\santi\Desktop\PUEBLOS adaptado de Realm a Retrofit\pueblos con Retrofit adaptado\app\src\main\AndroidManifest.xml:17:9-54
+25        android:icon="@mipmap/ic_launcher"
+25-->C:\Users\santi\Desktop\PUEBLOS adaptado de Realm a Retrofit\pueblos con Retrofit adaptado\app\src\main\AndroidManifest.xml:18:9-43
+26        android:label="@string/app_name"
+26-->C:\Users\santi\Desktop\PUEBLOS adaptado de Realm a Retrofit\pueblos con Retrofit adaptado\app\src\main\AndroidManifest.xml:19:9-41
+27        android:roundIcon="@mipmap/ic_launcher_round"
+27-->C:\Users\santi\Desktop\PUEBLOS adaptado de Realm a Retrofit\pueblos con Retrofit adaptado\app\src\main\AndroidManifest.xml:20:9-54
+28        android:supportsRtl="true"
+28-->C:\Users\santi\Desktop\PUEBLOS adaptado de Realm a Retrofit\pueblos con Retrofit adaptado\app\src\main\AndroidManifest.xml:21:9-35
+29        android:testOnly="true"
+30        android:theme="@style/Theme.PueblosConNavigationDrawer2"
+30-->C:\Users\santi\Desktop\PUEBLOS adaptado de Realm a Retrofit\pueblos con Retrofit adaptado\app\src\main\AndroidManifest.xml:22:9-65
+31        android:usesCleartextTraffic="true" >
+31-->C:\Users\santi\Desktop\PUEBLOS adaptado de Realm a Retrofit\pueblos con Retrofit adaptado\app\src\main\AndroidManifest.xml:13:9-44
+32        <activity
+32-->C:\Users\santi\Desktop\PUEBLOS adaptado de Realm a Retrofit\pueblos con Retrofit adaptado\app\src\main\AndroidManifest.xml:24:9-28:84
+33            android:name="com.pmdm.virgen.pueblosconnavigationdrawer2.activity.DetallePuebloActivity"
+33-->C:\Users\santi\Desktop\PUEBLOS adaptado de Realm a Retrofit\pueblos con Retrofit adaptado\app\src\main\AndroidManifest.xml:25:13-59
+34            android:exported="false"
+34-->C:\Users\santi\Desktop\PUEBLOS adaptado de Realm a Retrofit\pueblos con Retrofit adaptado\app\src\main\AndroidManifest.xml:26:13-37
+35            android:label=""
+35-->C:\Users\santi\Desktop\PUEBLOS adaptado de Realm a Retrofit\pueblos con Retrofit adaptado\app\src\main\AndroidManifest.xml:27:13-29
+36            android:theme="@style/Theme.PueblosConNavigationDrawer2.NoActionBar" />
+36-->C:\Users\santi\Desktop\PUEBLOS adaptado de Realm a Retrofit\pueblos con Retrofit adaptado\app\src\main\AndroidManifest.xml:28:13-81
+37        <activity
+37-->C:\Users\santi\Desktop\PUEBLOS adaptado de Realm a Retrofit\pueblos con Retrofit adaptado\app\src\main\AndroidManifest.xml:29:9-34:20
+38            android:name="com.pmdm.virgen.pueblosconnavigationdrawer2.activity.MainActivity"
+38-->C:\Users\santi\Desktop\PUEBLOS adaptado de Realm a Retrofit\pueblos con Retrofit adaptado\app\src\main\AndroidManifest.xml:30:13-50
+39            android:exported="true"
+39-->C:\Users\santi\Desktop\PUEBLOS adaptado de Realm a Retrofit\pueblos con Retrofit adaptado\app\src\main\AndroidManifest.xml:31:13-36
+40            android:label="@string/app_name"
+40-->C:\Users\santi\Desktop\PUEBLOS adaptado de Realm a Retrofit\pueblos con Retrofit adaptado\app\src\main\AndroidManifest.xml:32:13-45
+41            android:theme="@style/Theme.PueblosConNavigationDrawer2.NoActionBar" >
+41-->C:\Users\santi\Desktop\PUEBLOS adaptado de Realm a Retrofit\pueblos con Retrofit adaptado\app\src\main\AndroidManifest.xml:33:13-81
+42        </activity>
+43        <activity
+43-->C:\Users\santi\Desktop\PUEBLOS adaptado de Realm a Retrofit\pueblos con Retrofit adaptado\app\src\main\AndroidManifest.xml:35:9-43:20
+44            android:name="com.pmdm.virgen.pueblosconnavigationdrawer2.activity.Login"
+44-->C:\Users\santi\Desktop\PUEBLOS adaptado de Realm a Retrofit\pueblos con Retrofit adaptado\app\src\main\AndroidManifest.xml:36:13-43
+45            android:exported="true" >
+45-->C:\Users\santi\Desktop\PUEBLOS adaptado de Realm a Retrofit\pueblos con Retrofit adaptado\app\src\main\AndroidManifest.xml:37:13-36
+46            <intent-filter>
+46-->C:\Users\santi\Desktop\PUEBLOS adaptado de Realm a Retrofit\pueblos con Retrofit adaptado\app\src\main\AndroidManifest.xml:38:13-42:29
+47                <action android:name="android.intent.action.MAIN" />
+47-->C:\Users\santi\Desktop\PUEBLOS adaptado de Realm a Retrofit\pueblos con Retrofit adaptado\app\src\main\AndroidManifest.xml:39:17-69
+47-->C:\Users\santi\Desktop\PUEBLOS adaptado de Realm a Retrofit\pueblos con Retrofit adaptado\app\src\main\AndroidManifest.xml:39:25-66
+48
+49                <category android:name="android.intent.category.LAUNCHER" />
+49-->C:\Users\santi\Desktop\PUEBLOS adaptado de Realm a Retrofit\pueblos con Retrofit adaptado\app\src\main\AndroidManifest.xml:41:17-77
+49-->C:\Users\santi\Desktop\PUEBLOS adaptado de Realm a Retrofit\pueblos con Retrofit adaptado\app\src\main\AndroidManifest.xml:41:27-74
+50            </intent-filter>
+51        </activity>
+52
+53        <provider
+53-->[androidx.emoji2:emoji2:1.2.0] C:\Users\santi\.gradle\caches\transforms-3\c0f028a7581f752c8f4e679dad5fd148\transformed\emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+54            android:name="androidx.startup.InitializationProvider"
+54-->[androidx.emoji2:emoji2:1.2.0] C:\Users\santi\.gradle\caches\transforms-3\c0f028a7581f752c8f4e679dad5fd148\transformed\emoji2-1.2.0\AndroidManifest.xml:25:13-67
+55            android:authorities="com.pmdm.virgen.pueblosconnavigationdrawer2.androidx-startup"
+55-->[androidx.emoji2:emoji2:1.2.0] C:\Users\santi\.gradle\caches\transforms-3\c0f028a7581f752c8f4e679dad5fd148\transformed\emoji2-1.2.0\AndroidManifest.xml:26:13-68
+56            android:exported="false" >
+56-->[androidx.emoji2:emoji2:1.2.0] C:\Users\santi\.gradle\caches\transforms-3\c0f028a7581f752c8f4e679dad5fd148\transformed\emoji2-1.2.0\AndroidManifest.xml:27:13-37
+57            <meta-data
+57-->[androidx.emoji2:emoji2:1.2.0] C:\Users\santi\.gradle\caches\transforms-3\c0f028a7581f752c8f4e679dad5fd148\transformed\emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+58                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+58-->[androidx.emoji2:emoji2:1.2.0] C:\Users\santi\.gradle\caches\transforms-3\c0f028a7581f752c8f4e679dad5fd148\transformed\emoji2-1.2.0\AndroidManifest.xml:30:17-75
+59                android:value="androidx.startup" />
+59-->[androidx.emoji2:emoji2:1.2.0] C:\Users\santi\.gradle\caches\transforms-3\c0f028a7581f752c8f4e679dad5fd148\transformed\emoji2-1.2.0\AndroidManifest.xml:31:17-49
+60            <meta-data
+60-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\santi\.gradle\caches\transforms-3\2a4534eef0f3d60e8ed17ddded7bb5c4\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:31:13-33:52
+61                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+61-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\santi\.gradle\caches\transforms-3\2a4534eef0f3d60e8ed17ddded7bb5c4\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:32:17-78
+62                android:value="androidx.startup" />
+62-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\santi\.gradle\caches\transforms-3\2a4534eef0f3d60e8ed17ddded7bb5c4\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:33:17-49
+63        </provider>
+64
+65        <uses-library
+65-->[androidx.window:window:1.0.0] C:\Users\santi\.gradle\caches\transforms-3\eecd6174fbb037b0e67e37d13a56d0dc\transformed\window-1.0.0\AndroidManifest.xml:25:9-27:40
+66            android:name="androidx.window.extensions"
+66-->[androidx.window:window:1.0.0] C:\Users\santi\.gradle\caches\transforms-3\eecd6174fbb037b0e67e37d13a56d0dc\transformed\window-1.0.0\AndroidManifest.xml:26:13-54
+67            android:required="false" />
+67-->[androidx.window:window:1.0.0] C:\Users\santi\.gradle\caches\transforms-3\eecd6174fbb037b0e67e37d13a56d0dc\transformed\window-1.0.0\AndroidManifest.xml:27:13-37
+68        <uses-library
+68-->[androidx.window:window:1.0.0] C:\Users\santi\.gradle\caches\transforms-3\eecd6174fbb037b0e67e37d13a56d0dc\transformed\window-1.0.0\AndroidManifest.xml:28:9-30:40
+69            android:name="androidx.window.sidecar"
+69-->[androidx.window:window:1.0.0] C:\Users\santi\.gradle\caches\transforms-3\eecd6174fbb037b0e67e37d13a56d0dc\transformed\window-1.0.0\AndroidManifest.xml:29:13-51
+70            android:required="false" />
+70-->[androidx.window:window:1.0.0] C:\Users\santi\.gradle\caches\transforms-3\eecd6174fbb037b0e67e37d13a56d0dc\transformed\window-1.0.0\AndroidManifest.xml:30:13-37
+71    </application>
+72
+73</manifest>

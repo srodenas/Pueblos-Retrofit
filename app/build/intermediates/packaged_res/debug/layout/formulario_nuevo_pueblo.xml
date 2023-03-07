@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+    <EditText
+        android:id="@+id/edit_nombre"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:inputType="textPersonName"
+        android:hint="Nombre"/>
+
+    <EditText
+        android:id="@+id/edit_descripcion"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:hint="Descripción"
+        android:inputType="textPersonName"
+        android:minHeight="48dp" /> />
+
+    <EditText
+        android:id="@+id/edit_n_habitantes"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:hint="Número de habitantes"
+        android:inputType="textPersonName"
+        android:minHeight="48dp" />
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <ImageView
+            android:id="@+id/imag_view_cap_foto"
+            android:layout_width="48dp"
+            android:layout_height="50dp"
+            android:layout_marginStart="16dp"
+            android:layout_marginTop="16dp"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:srcCompat="@drawable/ic_menu_camera" />
+
+        <ImageView
+            android:id="@+id/image_view_save"
+            android:layout_width="53dp"
+            android:layout_height="32dp"
+            android:layout_marginStart="28dp"
+            app:layout_constraintStart_toEndOf="@+id/image_view_open"
+            app:srcCompat="@android:drawable/ic_menu_save"
+            />
+
+        <ImageView
+            android:id="@+id/image_view_open"
+            android:layout_width="0dp"
+            android:layout_height="53dp"
+            android:layout_marginStart="28dp"
+            app:layout_constraintStart_toEndOf="@+id/imag_view_cap_foto"
+            app:srcCompat="@android:drawable/ic_menu_upload"
+            />
+
+        <ImageView
+            android:id="@+id/text_view_imagen_foto"
+            android:layout_width="363dp"
+            android:layout_height="255dp"
+            android:layout_marginStart="16dp"
+            android:layout_marginTop="68dp"
+            android:layout_marginEnd="16dp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.277"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/image_view_save"
+            tools:srcCompat="@tools:sample/avatars" />
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+
+</LinearLayout>
