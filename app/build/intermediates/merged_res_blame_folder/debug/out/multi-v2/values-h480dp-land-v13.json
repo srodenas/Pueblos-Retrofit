@@ -4,7 +4,7 @@
             "outputFile": "com.pmdm.virgen.pueblosconnavigationdrawer2.app-mergeDebugResources-42:/values-h480dp-land-v13/values-h480dp-land-v13.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\santi\\.gradle\\caches\\transforms-3\\4cb9317d1f0b7576f6dd57f6ab831758\\transformed\\material-1.7.0\\res\\values-h480dp-land-v13\\values-h480dp-land-v13.xml",
+                    "source": "/Users/santi/.gradle/caches/transforms-3/4cb9317d1f0b7576f6dd57f6ab831758/transformed/material-1.7.0/res/values-h480dp-land-v13/values-h480dp-land-v13.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10",
                         "startColumns": "4,4,4,4,4,4,4,4,4",

@@ -1,361 +1,361 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\santi\Desktop\PUEBLOS adaptado de Realm a Retrofit\pueblos con Retrofit adaptado\app\src\main\AndroidManifest.xml:2:1-46:12
-INJECTED from C:\Users\santi\Desktop\PUEBLOS adaptado de Realm a Retrofit\pueblos con Retrofit adaptado\app\src\main\AndroidManifest.xml:2:1-46:12
-INJECTED from C:\Users\santi\Desktop\PUEBLOS adaptado de Realm a Retrofit\pueblos con Retrofit adaptado\app\src\main\AndroidManifest.xml:2:1-46:12
-INJECTED from C:\Users\santi\Desktop\PUEBLOS adaptado de Realm a Retrofit\pueblos con Retrofit adaptado\app\src\main\AndroidManifest.xml:2:1-46:12
-MERGED from [io.realm:realm-android-library:10.11.1] C:\Users\santi\.gradle\caches\transforms-3\eb5524d6962e3f74acc4d394e98439e3\transformed\realm-android-library-10.11.1\AndroidManifest.xml:2:1-9:12
-MERGED from [androidx.databinding:viewbinding:7.2.2] C:\Users\santi\.gradle\caches\transforms-3\3eb66f0a48f312078451de398b1a002f\transformed\viewbinding-7.2.2\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.navigation:navigation-ui:2.5.3] C:\Users\santi\.gradle\caches\transforms-3\9684fa66f72f0f9518b59e12832df2af\transformed\navigation-ui-2.5.3\AndroidManifest.xml:17:1-24:12
-MERGED from [com.google.android.material:material:1.7.0] C:\Users\santi\.gradle\caches\transforms-3\4cb9317d1f0b7576f6dd57f6ab831758\transformed\material-1.7.0\AndroidManifest.xml:17:1-26:12
-MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\santi\.gradle\caches\transforms-3\d165c79b2dd7b78e13d6c9c7a4b56e6d\transformed\constraintlayout-2.1.4\AndroidManifest.xml:2:1-11:12
-MERGED from [androidx.appcompat:appcompat-resources:1.5.1] C:\Users\santi\.gradle\caches\transforms-3\4d0837cbe478b584c8e32114c6989702\transformed\appcompat-resources-1.5.1\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.appcompat:appcompat:1.5.1] C:\Users\santi\.gradle\caches\transforms-3\700810d9cc4bd26f9b42fd92fa68f35d\transformed\appcompat-1.5.1\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.5.1] C:\Users\santi\.gradle\caches\transforms-3\60ac727ee9128380027ed4e827bd0bbf\transformed\lifecycle-livedata-ktx-2.5.1\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.navigation:navigation-fragment:2.5.3] C:\Users\santi\.gradle\caches\transforms-3\f76ce72c0a590be2a9a41f2e450c323d\transformed\navigation-fragment-2.5.3\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.fragment:fragment-ktx:1.5.4] C:\Users\santi\.gradle\caches\transforms-3\82cf6c77a8e34c03fb6adff18273e304\transformed\fragment-ktx-1.5.4\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.navigation:navigation-runtime:2.5.3] C:\Users\santi\.gradle\caches\transforms-3\d84c8ba98b4bbfdf114f163a41377124\transformed\navigation-runtime-2.5.3\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.activity:activity-ktx:1.5.1] C:\Users\santi\.gradle\caches\transforms-3\1cce6d0784a675802819f11ee4deca7c\transformed\activity-ktx-1.5.1\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.navigation:navigation-common:2.5.3] C:\Users\santi\.gradle\caches\transforms-3\e3484b7107f0f7935cd44e03498828e2\transformed\navigation-common-2.5.3\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.5.1] C:\Users\santi\.gradle\caches\transforms-3\20c8ec3f5f45742dc0c12ba342d5312a\transformed\lifecycle-viewmodel-ktx-2.5.1\AndroidManifest.xml:17:1-24:12
-MERGED from [com.github.bumptech.glide:glide:4.13.2] C:\Users\santi\.gradle\caches\transforms-3\530fa205363ffbd07d855bd4b85a7b39\transformed\glide-4.13.2\AndroidManifest.xml:2:1-12:12
-MERGED from [com.getkeepsafe.relinker:relinker:1.4.3] C:\Users\santi\.gradle\caches\transforms-3\b0ae065056f5416d8d350ad4d976ef5a\transformed\relinker-1.4.3\AndroidManifest.xml:2:1-7:12
-MERGED from [io.reactivex.rxjava2:rxandroid:2.1.1] C:\Users\santi\.gradle\caches\transforms-3\8afa1687bda4490d17f2c9e8a3726ebd\transformed\rxandroid-2.1.1\AndroidManifest.xml:15:1-20:12
-MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\santi\.gradle\caches\transforms-3\0a40459a71266ab69bfefdd80cf1d847\transformed\viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.fragment:fragment:1.5.4] C:\Users\santi\.gradle\caches\transforms-3\4c7a380b3379e88ade1d346204b9ea2e\transformed\fragment-1.5.4\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.activity:activity:1.5.1] C:\Users\santi\.gradle\caches\transforms-3\c69b0d50a9b3d76aa901b001b688c19b\transformed\activity-1.5.1\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\santi\.gradle\caches\transforms-3\429bd05e606226213ec3543ccd4bf5aa\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\santi\.gradle\caches\transforms-3\e41d5375e637910ad0cbdc5be6bfa639\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.loader:loader:1.0.0] C:\Users\santi\.gradle\caches\transforms-3\6dd5d9edeea1623569310f339e2f9c32\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] C:\Users\santi\.gradle\caches\transforms-3\d59879fe6a7bdbb2e3fc1f711f520ceb\transformed\lifecycle-viewmodel-2.5.1\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] C:\Users\santi\.gradle\caches\transforms-3\a8f5b2317b4a9868ff3b26cf713f0e59\transformed\lifecycle-viewmodel-savedstate-2.5.1\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.core:core-ktx:1.8.0] C:\Users\santi\.gradle\caches\transforms-3\5c552f08318696991cb692240e41c624\transformed\core-ktx-1.8.0\AndroidManifest.xml:2:1-9:12
-MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] C:\Users\santi\.gradle\caches\transforms-3\91202a67994304c169693066bc8b1dc7\transformed\emoji2-views-helper-1.2.0\AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\santi\.gradle\caches\transforms-3\c0f028a7581f752c8f4e679dad5fd148\transformed\emoji2-1.2.0\AndroidManifest.xml:17:1-35:12
-MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\santi\.gradle\caches\transforms-3\c38f5589df0c586355b04c1e9f79b2eb\transformed\drawerlayout-1.1.1\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\santi\.gradle\caches\transforms-3\0bcbcb3bc74369c7630b566964b3fe0b\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\santi\.gradle\caches\transforms-3\2bd277a02f496ff5a422bd3da3db8b15\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\santi\.gradle\caches\transforms-3\fbd190c776ce114ce546ad3c26e6b5bf\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] C:\Users\santi\.gradle\caches\transforms-3\716693239b9fd452621b9951efedc38d\transformed\slidingpanelayout-1.2.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\santi\.gradle\caches\transforms-3\b766ede6e5f9e4bc0fe1aaa4d61c4378\transformed\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\santi\.gradle\caches\transforms-3\5a6148d8a313dc0014e78ca49e4aed87\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.customview:customview:1.1.0] C:\Users\santi\.gradle\caches\transforms-3\0220ad3f822f5b198dc7d82b4e3898ee\transformed\customview-1.1.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.transition:transition:1.4.1] C:\Users\santi\.gradle\caches\transforms-3\0428f23f1198f4d60285d8298972a2dc\transformed\transition-1.4.1\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.window:window:1.0.0] C:\Users\santi\.gradle\caches\transforms-3\eecd6174fbb037b0e67e37d13a56d0dc\transformed\window-1.0.0\AndroidManifest.xml:17:1-33:12
-MERGED from [androidx.core:core:1.8.0] C:\Users\santi\.gradle\caches\transforms-3\434770190f62254a8a1bc99defa74148\transformed\core-1.8.0\AndroidManifest.xml:17:1-26:12
-MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\santi\.gradle\caches\transforms-3\d48fc0209bc834356a78712e8d8d4614\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\santi\.gradle\caches\transforms-3\2a4534eef0f3d60e8ed17ddded7bb5c4\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:17:1-37:12
-MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.5.1] C:\Users\santi\.gradle\caches\transforms-3\b4a99c1c4a9a6b4ed7fb12b11706dd6c\transformed\lifecycle-runtime-ktx-2.5.1\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] C:\Users\santi\.gradle\caches\transforms-3\6a61df14e82d91dfa6dab68d1207438a\transformed\lifecycle-runtime-2.5.1\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.savedstate:savedstate-ktx:1.2.0] C:\Users\santi\.gradle\caches\transforms-3\45ed24c475c48c21fefced736af1af3f\transformed\savedstate-ktx-1.2.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.savedstate:savedstate:1.2.0] C:\Users\santi\.gradle\caches\transforms-3\b35ac3d71db7488d95f7b0266bc2c0d5\transformed\savedstate-1.2.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\santi\.gradle\caches\transforms-3\160fd0e3a85cc62aac43da34a667c214\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [com.github.bumptech.glide:gifdecoder:4.13.2] C:\Users\santi\.gradle\caches\transforms-3\103d860b7ddef3c7502fc0b6259b1ec6\transformed\gifdecoder-4.13.2\AndroidManifest.xml:2:1-11:12
-MERGED from [androidx.exifinterface:exifinterface:1.2.0] C:\Users\santi\.gradle\caches\transforms-3\0ce5a9890fc14b060dd1c64c070f5440\transformed\exifinterface-1.2.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\santi\.gradle\caches\transforms-3\bb62f8111900beafcfd11538e5ab232f\transformed\startup-runtime-1.1.1\AndroidManifest.xml:17:1-33:12
-MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\santi\.gradle\caches\transforms-3\813b4c378e8078cd6511cd9249b1207b\transformed\tracing-1.0.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\santi\.gradle\caches\transforms-3\3c08fbb78be18a6f9c99a57f1d75b24f\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.5.1] C:\Users\santi\.gradle\caches\transforms-3\1c2cc212b43e105ece9eb1db1335778e\transformed\lifecycle-livedata-2.5.1\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.5.1] C:\Users\santi\.gradle\caches\transforms-3\b6f0a442233b7c8639a34bd4ea55fc22\transformed\lifecycle-livedata-core-ktx-2.5.1\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] C:\Users\santi\.gradle\caches\transforms-3\72e73a3f4986f7bffa98620644ba397e\transformed\lifecycle-livedata-core-2.5.1\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\santi\.gradle\caches\transforms-3\647ccb27ae49bedf1237fdddf7883b3b\transformed\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\santi\.gradle\caches\transforms-3\89e84c99b9ecf05d28a78bf926c2dd40\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\santi\.gradle\caches\transforms-3\57b4de44efd0e44a64a45c54ae405d43\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\santi\.gradle\caches\transforms-3\47507ffd26ecf4813c1ef6c6fe7eb582\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.print:print:1.0.0] C:\Users\santi\.gradle\caches\transforms-3\e035456a3e1776256ea475925bd6ea48\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\santi\.gradle\caches\transforms-3\9e0959fba29a84ab8a546bd7a2f8edbd\transformed\annotation-experimental-1.1.0\AndroidManifest.xml:17:1-24:12
-INJECTED from C:\Users\santi\Desktop\PUEBLOS adaptado de Realm a Retrofit\pueblos con Retrofit adaptado\app\src\main\AndroidManifest.xml:2:1-46:12
-INJECTED from C:\Users\santi\Desktop\PUEBLOS adaptado de Realm a Retrofit\pueblos con Retrofit adaptado\app\src\main\AndroidManifest.xml:2:1-46:12
-INJECTED from C:\Users\santi\Desktop\PUEBLOS adaptado de Realm a Retrofit\pueblos con Retrofit adaptado\app\src\main\AndroidManifest.xml:2:1-46:12
+ADDED from /Users/santi/Documents/trabajo_instituto/instituto_22_23/PMDM/PROYECTOS DE CLASE/android studio/VERSIONES APP PUEBLOS/ULTIMA VERSIÓN PUEBLOS API REST/Pueblos-Retrofit/app/src/main/AndroidManifest.xml:2:1-46:12
+INJECTED from /Users/santi/Documents/trabajo_instituto/instituto_22_23/PMDM/PROYECTOS DE CLASE/android studio/VERSIONES APP PUEBLOS/ULTIMA VERSIÓN PUEBLOS API REST/Pueblos-Retrofit/app/src/main/AndroidManifest.xml:2:1-46:12
+INJECTED from /Users/santi/Documents/trabajo_instituto/instituto_22_23/PMDM/PROYECTOS DE CLASE/android studio/VERSIONES APP PUEBLOS/ULTIMA VERSIÓN PUEBLOS API REST/Pueblos-Retrofit/app/src/main/AndroidManifest.xml:2:1-46:12
+INJECTED from /Users/santi/Documents/trabajo_instituto/instituto_22_23/PMDM/PROYECTOS DE CLASE/android studio/VERSIONES APP PUEBLOS/ULTIMA VERSIÓN PUEBLOS API REST/Pueblos-Retrofit/app/src/main/AndroidManifest.xml:2:1-46:12
+MERGED from [io.realm:realm-android-library:10.11.1] /Users/santi/.gradle/caches/transforms-3/eb5524d6962e3f74acc4d394e98439e3/transformed/realm-android-library-10.11.1/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.databinding:viewbinding:7.2.2] /Users/santi/.gradle/caches/transforms-3/3eb66f0a48f312078451de398b1a002f/transformed/viewbinding-7.2.2/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-ui:2.5.3] /Users/santi/.gradle/caches/transforms-3/9684fa66f72f0f9518b59e12832df2af/transformed/navigation-ui-2.5.3/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.material:material:1.7.0] /Users/santi/.gradle/caches/transforms-3/4cb9317d1f0b7576f6dd57f6ab831758/transformed/material-1.7.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/santi/.gradle/caches/transforms-3/d165c79b2dd7b78e13d6c9c7a4b56e6d/transformed/constraintlayout-2.1.4/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat-resources:1.5.1] /Users/santi/.gradle/caches/transforms-3/4d0837cbe478b584c8e32114c6989702/transformed/appcompat-resources-1.5.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat:1.5.1] /Users/santi/.gradle/caches/transforms-3/700810d9cc4bd26f9b42fd92fa68f35d/transformed/appcompat-1.5.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.5.1] /Users/santi/.gradle/caches/transforms-3/60ac727ee9128380027ed4e827bd0bbf/transformed/lifecycle-livedata-ktx-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-fragment:2.5.3] /Users/santi/.gradle/caches/transforms-3/f76ce72c0a590be2a9a41f2e450c323d/transformed/navigation-fragment-2.5.3/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment-ktx:1.5.4] /Users/santi/.gradle/caches/transforms-3/82cf6c77a8e34c03fb6adff18273e304/transformed/fragment-ktx-1.5.4/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-runtime:2.5.3] /Users/santi/.gradle/caches/transforms-3/d84c8ba98b4bbfdf114f163a41377124/transformed/navigation-runtime-2.5.3/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity-ktx:1.5.1] /Users/santi/.gradle/caches/transforms-3/1cce6d0784a675802819f11ee4deca7c/transformed/activity-ktx-1.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-common:2.5.3] /Users/santi/.gradle/caches/transforms-3/e3484b7107f0f7935cd44e03498828e2/transformed/navigation-common-2.5.3/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.5.1] /Users/santi/.gradle/caches/transforms-3/20c8ec3f5f45742dc0c12ba342d5312a/transformed/lifecycle-viewmodel-ktx-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.github.bumptech.glide:glide:4.13.2] /Users/santi/.gradle/caches/transforms-3/530fa205363ffbd07d855bd4b85a7b39/transformed/glide-4.13.2/AndroidManifest.xml:2:1-12:12
+MERGED from [com.getkeepsafe.relinker:relinker:1.4.3] /Users/santi/.gradle/caches/transforms-3/b0ae065056f5416d8d350ad4d976ef5a/transformed/relinker-1.4.3/AndroidManifest.xml:2:1-7:12
+MERGED from [io.reactivex.rxjava2:rxandroid:2.1.1] /Users/santi/.gradle/caches/transforms-3/8afa1687bda4490d17f2c9e8a3726ebd/transformed/rxandroid-2.1.1/AndroidManifest.xml:15:1-20:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/santi/.gradle/caches/transforms-3/0a40459a71266ab69bfefdd80cf1d847/transformed/viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.5.4] /Users/santi/.gradle/caches/transforms-3/4c7a380b3379e88ade1d346204b9ea2e/transformed/fragment-1.5.4/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.5.1] /Users/santi/.gradle/caches/transforms-3/c69b0d50a9b3d76aa901b001b688c19b/transformed/activity-1.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/santi/.gradle/caches/transforms-3/429bd05e606226213ec3543ccd4bf5aa/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/santi/.gradle/caches/transforms-3/e41d5375e637910ad0cbdc5be6bfa639/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/santi/.gradle/caches/transforms-3/6dd5d9edeea1623569310f339e2f9c32/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] /Users/santi/.gradle/caches/transforms-3/d59879fe6a7bdbb2e3fc1f711f520ceb/transformed/lifecycle-viewmodel-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] /Users/santi/.gradle/caches/transforms-3/a8f5b2317b4a9868ff3b26cf713f0e59/transformed/lifecycle-viewmodel-savedstate-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.8.0] /Users/santi/.gradle/caches/transforms-3/5c552f08318696991cb692240e41c624/transformed/core-ktx-1.8.0/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] /Users/santi/.gradle/caches/transforms-3/91202a67994304c169693066bc8b1dc7/transformed/emoji2-views-helper-1.2.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.2.0] /Users/santi/.gradle/caches/transforms-3/c0f028a7581f752c8f4e679dad5fd148/transformed/emoji2-1.2.0/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/santi/.gradle/caches/transforms-3/c38f5589df0c586355b04c1e9f79b2eb/transformed/drawerlayout-1.1.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/santi/.gradle/caches/transforms-3/0bcbcb3bc74369c7630b566964b3fe0b/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/santi/.gradle/caches/transforms-3/2bd277a02f496ff5a422bd3da3db8b15/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/santi/.gradle/caches/transforms-3/fbd190c776ce114ce546ad3c26e6b5bf/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] /Users/santi/.gradle/caches/transforms-3/716693239b9fd452621b9951efedc38d/transformed/slidingpanelayout-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/santi/.gradle/caches/transforms-3/b766ede6e5f9e4bc0fe1aaa4d61c4378/transformed/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/santi/.gradle/caches/transforms-3/5a6148d8a313dc0014e78ca49e4aed87/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.1.0] /Users/santi/.gradle/caches/transforms-3/0220ad3f822f5b198dc7d82b4e3898ee/transformed/customview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.4.1] /Users/santi/.gradle/caches/transforms-3/0428f23f1198f4d60285d8298972a2dc/transformed/transition-1.4.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.window:window:1.0.0] /Users/santi/.gradle/caches/transforms-3/eecd6174fbb037b0e67e37d13a56d0dc/transformed/window-1.0.0/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.core:core:1.8.0] /Users/santi/.gradle/caches/transforms-3/434770190f62254a8a1bc99defa74148/transformed/core-1.8.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/santi/.gradle/caches/transforms-3/d48fc0209bc834356a78712e8d8d4614/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /Users/santi/.gradle/caches/transforms-3/2a4534eef0f3d60e8ed17ddded7bb5c4/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.5.1] /Users/santi/.gradle/caches/transforms-3/b4a99c1c4a9a6b4ed7fb12b11706dd6c/transformed/lifecycle-runtime-ktx-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] /Users/santi/.gradle/caches/transforms-3/6a61df14e82d91dfa6dab68d1207438a/transformed/lifecycle-runtime-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.0] /Users/santi/.gradle/caches/transforms-3/45ed24c475c48c21fefced736af1af3f/transformed/savedstate-ktx-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.2.0] /Users/santi/.gradle/caches/transforms-3/b35ac3d71db7488d95f7b0266bc2c0d5/transformed/savedstate-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/santi/.gradle/caches/transforms-3/160fd0e3a85cc62aac43da34a667c214/transformed/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.13.2] /Users/santi/.gradle/caches/transforms-3/103d860b7ddef3c7502fc0b6259b1ec6/transformed/gifdecoder-4.13.2/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.exifinterface:exifinterface:1.2.0] /Users/santi/.gradle/caches/transforms-3/0ce5a9890fc14b060dd1c64c070f5440/transformed/exifinterface-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/santi/.gradle/caches/transforms-3/bb62f8111900beafcfd11538e5ab232f/transformed/startup-runtime-1.1.1/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/santi/.gradle/caches/transforms-3/813b4c378e8078cd6511cd9249b1207b/transformed/tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/santi/.gradle/caches/transforms-3/3c08fbb78be18a6f9c99a57f1d75b24f/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.5.1] /Users/santi/.gradle/caches/transforms-3/1c2cc212b43e105ece9eb1db1335778e/transformed/lifecycle-livedata-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.5.1] /Users/santi/.gradle/caches/transforms-3/b6f0a442233b7c8639a34bd4ea55fc22/transformed/lifecycle-livedata-core-ktx-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] /Users/santi/.gradle/caches/transforms-3/72e73a3f4986f7bffa98620644ba397e/transformed/lifecycle-livedata-core-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/santi/.gradle/caches/transforms-3/647ccb27ae49bedf1237fdddf7883b3b/transformed/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/santi/.gradle/caches/transforms-3/89e84c99b9ecf05d28a78bf926c2dd40/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/santi/.gradle/caches/transforms-3/57b4de44efd0e44a64a45c54ae405d43/transformed/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/santi/.gradle/caches/transforms-3/47507ffd26ecf4813c1ef6c6fe7eb582/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/santi/.gradle/caches/transforms-3/e035456a3e1776256ea475925bd6ea48/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/santi/.gradle/caches/transforms-3/9e0959fba29a84ab8a546bd7a2f8edbd/transformed/annotation-experimental-1.1.0/AndroidManifest.xml:17:1-24:12
+INJECTED from /Users/santi/Documents/trabajo_instituto/instituto_22_23/PMDM/PROYECTOS DE CLASE/android studio/VERSIONES APP PUEBLOS/ULTIMA VERSIÓN PUEBLOS API REST/Pueblos-Retrofit/app/src/main/AndroidManifest.xml:2:1-46:12
+INJECTED from /Users/santi/Documents/trabajo_instituto/instituto_22_23/PMDM/PROYECTOS DE CLASE/android studio/VERSIONES APP PUEBLOS/ULTIMA VERSIÓN PUEBLOS API REST/Pueblos-Retrofit/app/src/main/AndroidManifest.xml:2:1-46:12
+INJECTED from /Users/santi/Documents/trabajo_instituto/instituto_22_23/PMDM/PROYECTOS DE CLASE/android studio/VERSIONES APP PUEBLOS/ULTIMA VERSIÓN PUEBLOS API REST/Pueblos-Retrofit/app/src/main/AndroidManifest.xml:2:1-46:12
 	package
-		ADDED from C:\Users\santi\Desktop\PUEBLOS adaptado de Realm a Retrofit\pueblos con Retrofit adaptado\app\src\main\AndroidManifest.xml:4:5-58
-		INJECTED from C:\Users\santi\Desktop\PUEBLOS adaptado de Realm a Retrofit\pueblos con Retrofit adaptado\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\santi\Desktop\PUEBLOS adaptado de Realm a Retrofit\pueblos con Retrofit adaptado\app\src\main\AndroidManifest.xml
+		ADDED from /Users/santi/Documents/trabajo_instituto/instituto_22_23/PMDM/PROYECTOS DE CLASE/android studio/VERSIONES APP PUEBLOS/ULTIMA VERSIÓN PUEBLOS API REST/Pueblos-Retrofit/app/src/main/AndroidManifest.xml:4:5-58
+		INJECTED from /Users/santi/Documents/trabajo_instituto/instituto_22_23/PMDM/PROYECTOS DE CLASE/android studio/VERSIONES APP PUEBLOS/ULTIMA VERSIÓN PUEBLOS API REST/Pueblos-Retrofit/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/santi/Documents/trabajo_instituto/instituto_22_23/PMDM/PROYECTOS DE CLASE/android studio/VERSIONES APP PUEBLOS/ULTIMA VERSIÓN PUEBLOS API REST/Pueblos-Retrofit/app/src/main/AndroidManifest.xml
 	android:versionName
-		INJECTED from C:\Users\santi\Desktop\PUEBLOS adaptado de Realm a Retrofit\pueblos con Retrofit adaptado\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\santi\Desktop\PUEBLOS adaptado de Realm a Retrofit\pueblos con Retrofit adaptado\app\src\main\AndroidManifest.xml:2:1-46:12
-		INJECTED from C:\Users\santi\Desktop\PUEBLOS adaptado de Realm a Retrofit\pueblos con Retrofit adaptado\app\src\main\AndroidManifest.xml
+		INJECTED from /Users/santi/Documents/trabajo_instituto/instituto_22_23/PMDM/PROYECTOS DE CLASE/android studio/VERSIONES APP PUEBLOS/ULTIMA VERSIÓN PUEBLOS API REST/Pueblos-Retrofit/app/src/main/AndroidManifest.xml
+		ADDED from /Users/santi/Documents/trabajo_instituto/instituto_22_23/PMDM/PROYECTOS DE CLASE/android studio/VERSIONES APP PUEBLOS/ULTIMA VERSIÓN PUEBLOS API REST/Pueblos-Retrofit/app/src/main/AndroidManifest.xml:2:1-46:12
+		INJECTED from /Users/santi/Documents/trabajo_instituto/instituto_22_23/PMDM/PROYECTOS DE CLASE/android studio/VERSIONES APP PUEBLOS/ULTIMA VERSIÓN PUEBLOS API REST/Pueblos-Retrofit/app/src/main/AndroidManifest.xml
 	xmlns:tools
-		ADDED from C:\Users\santi\Desktop\PUEBLOS adaptado de Realm a Retrofit\pueblos con Retrofit adaptado\app\src\main\AndroidManifest.xml:3:5-51
+		ADDED from /Users/santi/Documents/trabajo_instituto/instituto_22_23/PMDM/PROYECTOS DE CLASE/android studio/VERSIONES APP PUEBLOS/ULTIMA VERSIÓN PUEBLOS API REST/Pueblos-Retrofit/app/src/main/AndroidManifest.xml:3:5-51
 	android:versionCode
-		INJECTED from C:\Users\santi\Desktop\PUEBLOS adaptado de Realm a Retrofit\pueblos con Retrofit adaptado\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\santi\Desktop\PUEBLOS adaptado de Realm a Retrofit\pueblos con Retrofit adaptado\app\src\main\AndroidManifest.xml:2:1-46:12
-		INJECTED from C:\Users\santi\Desktop\PUEBLOS adaptado de Realm a Retrofit\pueblos con Retrofit adaptado\app\src\main\AndroidManifest.xml
+		INJECTED from /Users/santi/Documents/trabajo_instituto/instituto_22_23/PMDM/PROYECTOS DE CLASE/android studio/VERSIONES APP PUEBLOS/ULTIMA VERSIÓN PUEBLOS API REST/Pueblos-Retrofit/app/src/main/AndroidManifest.xml
+		ADDED from /Users/santi/Documents/trabajo_instituto/instituto_22_23/PMDM/PROYECTOS DE CLASE/android studio/VERSIONES APP PUEBLOS/ULTIMA VERSIÓN PUEBLOS API REST/Pueblos-Retrofit/app/src/main/AndroidManifest.xml:2:1-46:12
+		INJECTED from /Users/santi/Documents/trabajo_instituto/instituto_22_23/PMDM/PROYECTOS DE CLASE/android studio/VERSIONES APP PUEBLOS/ULTIMA VERSIÓN PUEBLOS API REST/Pueblos-Retrofit/app/src/main/AndroidManifest.xml
 	xmlns:android
-		ADDED from C:\Users\santi\Desktop\PUEBLOS adaptado de Realm a Retrofit\pueblos con Retrofit adaptado\app\src\main\AndroidManifest.xml:2:11-69
+		ADDED from /Users/santi/Documents/trabajo_instituto/instituto_22_23/PMDM/PROYECTOS DE CLASE/android studio/VERSIONES APP PUEBLOS/ULTIMA VERSIÓN PUEBLOS API REST/Pueblos-Retrofit/app/src/main/AndroidManifest.xml:2:11-69
 uses-permission#android.permission.INTERNET
-ADDED from C:\Users\santi\Desktop\PUEBLOS adaptado de Realm a Retrofit\pueblos con Retrofit adaptado\app\src\main\AndroidManifest.xml:5:5-83
+ADDED from /Users/santi/Documents/trabajo_instituto/instituto_22_23/PMDM/PROYECTOS DE CLASE/android studio/VERSIONES APP PUEBLOS/ULTIMA VERSIÓN PUEBLOS API REST/Pueblos-Retrofit/app/src/main/AndroidManifest.xml:5:5-83
 	android:name
-		ADDED from C:\Users\santi\Desktop\PUEBLOS adaptado de Realm a Retrofit\pueblos con Retrofit adaptado\app\src\main\AndroidManifest.xml:5:22-64
+		ADDED from /Users/santi/Documents/trabajo_instituto/instituto_22_23/PMDM/PROYECTOS DE CLASE/android studio/VERSIONES APP PUEBLOS/ULTIMA VERSIÓN PUEBLOS API REST/Pueblos-Retrofit/app/src/main/AndroidManifest.xml:5:22-64
 uses-permission#android.permission.CAMERA
-ADDED from C:\Users\santi\Desktop\PUEBLOS adaptado de Realm a Retrofit\pueblos con Retrofit adaptado\app\src\main\AndroidManifest.xml:6:5-65
+ADDED from /Users/santi/Documents/trabajo_instituto/instituto_22_23/PMDM/PROYECTOS DE CLASE/android studio/VERSIONES APP PUEBLOS/ULTIMA VERSIÓN PUEBLOS API REST/Pueblos-Retrofit/app/src/main/AndroidManifest.xml:6:5-65
 	android:name
-		ADDED from C:\Users\santi\Desktop\PUEBLOS adaptado de Realm a Retrofit\pueblos con Retrofit adaptado\app\src\main\AndroidManifest.xml:6:22-62
+		ADDED from /Users/santi/Documents/trabajo_instituto/instituto_22_23/PMDM/PROYECTOS DE CLASE/android studio/VERSIONES APP PUEBLOS/ULTIMA VERSIÓN PUEBLOS API REST/Pueblos-Retrofit/app/src/main/AndroidManifest.xml:6:22-62
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-ADDED from C:\Users\santi\Desktop\PUEBLOS adaptado de Realm a Retrofit\pueblos con Retrofit adaptado\app\src\main\AndroidManifest.xml:7:5-81
+ADDED from /Users/santi/Documents/trabajo_instituto/instituto_22_23/PMDM/PROYECTOS DE CLASE/android studio/VERSIONES APP PUEBLOS/ULTIMA VERSIÓN PUEBLOS API REST/Pueblos-Retrofit/app/src/main/AndroidManifest.xml:7:5-81
 	android:name
-		ADDED from C:\Users\santi\Desktop\PUEBLOS adaptado de Realm a Retrofit\pueblos con Retrofit adaptado\app\src\main\AndroidManifest.xml:7:22-78
+		ADDED from /Users/santi/Documents/trabajo_instituto/instituto_22_23/PMDM/PROYECTOS DE CLASE/android studio/VERSIONES APP PUEBLOS/ULTIMA VERSIÓN PUEBLOS API REST/Pueblos-Retrofit/app/src/main/AndroidManifest.xml:7:22-78
 uses-permission#android.permission.READ_EXTERNAL_STORAGE
-ADDED from C:\Users\santi\Desktop\PUEBLOS adaptado de Realm a Retrofit\pueblos con Retrofit adaptado\app\src\main\AndroidManifest.xml:8:5-80
+ADDED from /Users/santi/Documents/trabajo_instituto/instituto_22_23/PMDM/PROYECTOS DE CLASE/android studio/VERSIONES APP PUEBLOS/ULTIMA VERSIÓN PUEBLOS API REST/Pueblos-Retrofit/app/src/main/AndroidManifest.xml:8:5-80
 	android:name
-		ADDED from C:\Users\santi\Desktop\PUEBLOS adaptado de Realm a Retrofit\pueblos con Retrofit adaptado\app\src\main\AndroidManifest.xml:8:22-77
+		ADDED from /Users/santi/Documents/trabajo_instituto/instituto_22_23/PMDM/PROYECTOS DE CLASE/android studio/VERSIONES APP PUEBLOS/ULTIMA VERSIÓN PUEBLOS API REST/Pueblos-Retrofit/app/src/main/AndroidManifest.xml:8:22-77
 uses-permission#android.permission.MANAGE_EXTERNAL_STORAGE
-ADDED from C:\Users\santi\Desktop\PUEBLOS adaptado de Realm a Retrofit\pueblos con Retrofit adaptado\app\src\main\AndroidManifest.xml:9:5-110
+ADDED from /Users/santi/Documents/trabajo_instituto/instituto_22_23/PMDM/PROYECTOS DE CLASE/android studio/VERSIONES APP PUEBLOS/ULTIMA VERSIÓN PUEBLOS API REST/Pueblos-Retrofit/app/src/main/AndroidManifest.xml:9:5-110
 	tools:ignore
-		ADDED from C:\Users\santi\Desktop\PUEBLOS adaptado de Realm a Retrofit\pueblos con Retrofit adaptado\app\src\main\AndroidManifest.xml:9:80-108
+		ADDED from /Users/santi/Documents/trabajo_instituto/instituto_22_23/PMDM/PROYECTOS DE CLASE/android studio/VERSIONES APP PUEBLOS/ULTIMA VERSIÓN PUEBLOS API REST/Pueblos-Retrofit/app/src/main/AndroidManifest.xml:9:80-108
 	android:name
-		ADDED from C:\Users\santi\Desktop\PUEBLOS adaptado de Realm a Retrofit\pueblos con Retrofit adaptado\app\src\main\AndroidManifest.xml:9:22-79
+		ADDED from /Users/santi/Documents/trabajo_instituto/instituto_22_23/PMDM/PROYECTOS DE CLASE/android studio/VERSIONES APP PUEBLOS/ULTIMA VERSIÓN PUEBLOS API REST/Pueblos-Retrofit/app/src/main/AndroidManifest.xml:9:22-79
 application
-ADDED from C:\Users\santi\Desktop\PUEBLOS adaptado de Realm a Retrofit\pueblos con Retrofit adaptado\app\src\main\AndroidManifest.xml:12:5-44:19
-MERGED from [com.google.android.material:material:1.7.0] C:\Users\santi\.gradle\caches\transforms-3\4cb9317d1f0b7576f6dd57f6ab831758\transformed\material-1.7.0\AndroidManifest.xml:24:5-20
-MERGED from [com.google.android.material:material:1.7.0] C:\Users\santi\.gradle\caches\transforms-3\4cb9317d1f0b7576f6dd57f6ab831758\transformed\material-1.7.0\AndroidManifest.xml:24:5-20
-MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\santi\.gradle\caches\transforms-3\d165c79b2dd7b78e13d6c9c7a4b56e6d\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
-MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\santi\.gradle\caches\transforms-3\d165c79b2dd7b78e13d6c9c7a4b56e6d\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
-MERGED from [com.github.bumptech.glide:glide:4.13.2] C:\Users\santi\.gradle\caches\transforms-3\530fa205363ffbd07d855bd4b85a7b39\transformed\glide-4.13.2\AndroidManifest.xml:10:5-20
-MERGED from [com.github.bumptech.glide:glide:4.13.2] C:\Users\santi\.gradle\caches\transforms-3\530fa205363ffbd07d855bd4b85a7b39\transformed\glide-4.13.2\AndroidManifest.xml:10:5-20
-MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\santi\.gradle\caches\transforms-3\c0f028a7581f752c8f4e679dad5fd148\transformed\emoji2-1.2.0\AndroidManifest.xml:23:5-33:19
-MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\santi\.gradle\caches\transforms-3\c0f028a7581f752c8f4e679dad5fd148\transformed\emoji2-1.2.0\AndroidManifest.xml:23:5-33:19
-MERGED from [androidx.window:window:1.0.0] C:\Users\santi\.gradle\caches\transforms-3\eecd6174fbb037b0e67e37d13a56d0dc\transformed\window-1.0.0\AndroidManifest.xml:24:5-31:19
-MERGED from [androidx.window:window:1.0.0] C:\Users\santi\.gradle\caches\transforms-3\eecd6174fbb037b0e67e37d13a56d0dc\transformed\window-1.0.0\AndroidManifest.xml:24:5-31:19
-MERGED from [androidx.core:core:1.8.0] C:\Users\santi\.gradle\caches\transforms-3\434770190f62254a8a1bc99defa74148\transformed\core-1.8.0\AndroidManifest.xml:24:5-89
-MERGED from [androidx.core:core:1.8.0] C:\Users\santi\.gradle\caches\transforms-3\434770190f62254a8a1bc99defa74148\transformed\core-1.8.0\AndroidManifest.xml:24:5-89
-MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\santi\.gradle\caches\transforms-3\2a4534eef0f3d60e8ed17ddded7bb5c4\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:25:5-35:19
-MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\santi\.gradle\caches\transforms-3\2a4534eef0f3d60e8ed17ddded7bb5c4\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:25:5-35:19
-MERGED from [com.github.bumptech.glide:gifdecoder:4.13.2] C:\Users\santi\.gradle\caches\transforms-3\103d860b7ddef3c7502fc0b6259b1ec6\transformed\gifdecoder-4.13.2\AndroidManifest.xml:9:5-20
-MERGED from [com.github.bumptech.glide:gifdecoder:4.13.2] C:\Users\santi\.gradle\caches\transforms-3\103d860b7ddef3c7502fc0b6259b1ec6\transformed\gifdecoder-4.13.2\AndroidManifest.xml:9:5-20
-MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\santi\.gradle\caches\transforms-3\bb62f8111900beafcfd11538e5ab232f\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
-MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\santi\.gradle\caches\transforms-3\bb62f8111900beafcfd11538e5ab232f\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\santi\.gradle\caches\transforms-3\3c08fbb78be18a6f9c99a57f1d75b24f\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\santi\.gradle\caches\transforms-3\3c08fbb78be18a6f9c99a57f1d75b24f\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+ADDED from /Users/santi/Documents/trabajo_instituto/instituto_22_23/PMDM/PROYECTOS DE CLASE/android studio/VERSIONES APP PUEBLOS/ULTIMA VERSIÓN PUEBLOS API REST/Pueblos-Retrofit/app/src/main/AndroidManifest.xml:12:5-44:19
+MERGED from [com.google.android.material:material:1.7.0] /Users/santi/.gradle/caches/transforms-3/4cb9317d1f0b7576f6dd57f6ab831758/transformed/material-1.7.0/AndroidManifest.xml:24:5-20
+MERGED from [com.google.android.material:material:1.7.0] /Users/santi/.gradle/caches/transforms-3/4cb9317d1f0b7576f6dd57f6ab831758/transformed/material-1.7.0/AndroidManifest.xml:24:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/santi/.gradle/caches/transforms-3/d165c79b2dd7b78e13d6c9c7a4b56e6d/transformed/constraintlayout-2.1.4/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/santi/.gradle/caches/transforms-3/d165c79b2dd7b78e13d6c9c7a4b56e6d/transformed/constraintlayout-2.1.4/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:glide:4.13.2] /Users/santi/.gradle/caches/transforms-3/530fa205363ffbd07d855bd4b85a7b39/transformed/glide-4.13.2/AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.13.2] /Users/santi/.gradle/caches/transforms-3/530fa205363ffbd07d855bd4b85a7b39/transformed/glide-4.13.2/AndroidManifest.xml:10:5-20
+MERGED from [androidx.emoji2:emoji2:1.2.0] /Users/santi/.gradle/caches/transforms-3/c0f028a7581f752c8f4e679dad5fd148/transformed/emoji2-1.2.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.2.0] /Users/santi/.gradle/caches/transforms-3/c0f028a7581f752c8f4e679dad5fd148/transformed/emoji2-1.2.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.window:window:1.0.0] /Users/santi/.gradle/caches/transforms-3/eecd6174fbb037b0e67e37d13a56d0dc/transformed/window-1.0.0/AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.window:window:1.0.0] /Users/santi/.gradle/caches/transforms-3/eecd6174fbb037b0e67e37d13a56d0dc/transformed/window-1.0.0/AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.core:core:1.8.0] /Users/santi/.gradle/caches/transforms-3/434770190f62254a8a1bc99defa74148/transformed/core-1.8.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.8.0] /Users/santi/.gradle/caches/transforms-3/434770190f62254a8a1bc99defa74148/transformed/core-1.8.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /Users/santi/.gradle/caches/transforms-3/2a4534eef0f3d60e8ed17ddded7bb5c4/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /Users/santi/.gradle/caches/transforms-3/2a4534eef0f3d60e8ed17ddded7bb5c4/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:25:5-35:19
+MERGED from [com.github.bumptech.glide:gifdecoder:4.13.2] /Users/santi/.gradle/caches/transforms-3/103d860b7ddef3c7502fc0b6259b1ec6/transformed/gifdecoder-4.13.2/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.13.2] /Users/santi/.gradle/caches/transforms-3/103d860b7ddef3c7502fc0b6259b1ec6/transformed/gifdecoder-4.13.2/AndroidManifest.xml:9:5-20
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/santi/.gradle/caches/transforms-3/bb62f8111900beafcfd11538e5ab232f/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/santi/.gradle/caches/transforms-3/bb62f8111900beafcfd11538e5ab232f/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/santi/.gradle/caches/transforms-3/3c08fbb78be18a6f9c99a57f1d75b24f/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/santi/.gradle/caches/transforms-3/3c08fbb78be18a6f9c99a57f1d75b24f/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
 	android:appComponentFactory
-		ADDED from [androidx.core:core:1.8.0] C:\Users\santi\.gradle\caches\transforms-3\434770190f62254a8a1bc99defa74148\transformed\core-1.8.0\AndroidManifest.xml:24:18-86
+		ADDED from [androidx.core:core:1.8.0] /Users/santi/.gradle/caches/transforms-3/434770190f62254a8a1bc99defa74148/transformed/core-1.8.0/AndroidManifest.xml:24:18-86
 	android:supportsRtl
-		ADDED from C:\Users\santi\Desktop\PUEBLOS adaptado de Realm a Retrofit\pueblos con Retrofit adaptado\app\src\main\AndroidManifest.xml:21:9-35
+		ADDED from /Users/santi/Documents/trabajo_instituto/instituto_22_23/PMDM/PROYECTOS DE CLASE/android studio/VERSIONES APP PUEBLOS/ULTIMA VERSIÓN PUEBLOS API REST/Pueblos-Retrofit/app/src/main/AndroidManifest.xml:21:9-35
 	android:label
-		ADDED from C:\Users\santi\Desktop\PUEBLOS adaptado de Realm a Retrofit\pueblos con Retrofit adaptado\app\src\main\AndroidManifest.xml:19:9-41
+		ADDED from /Users/santi/Documents/trabajo_instituto/instituto_22_23/PMDM/PROYECTOS DE CLASE/android studio/VERSIONES APP PUEBLOS/ULTIMA VERSIÓN PUEBLOS API REST/Pueblos-Retrofit/app/src/main/AndroidManifest.xml:19:9-41
 	android:fullBackupContent
-		ADDED from C:\Users\santi\Desktop\PUEBLOS adaptado de Realm a Retrofit\pueblos con Retrofit adaptado\app\src\main\AndroidManifest.xml:17:9-54
+		ADDED from /Users/santi/Documents/trabajo_instituto/instituto_22_23/PMDM/PROYECTOS DE CLASE/android studio/VERSIONES APP PUEBLOS/ULTIMA VERSIÓN PUEBLOS API REST/Pueblos-Retrofit/app/src/main/AndroidManifest.xml:17:9-54
 	android:roundIcon
-		ADDED from C:\Users\santi\Desktop\PUEBLOS adaptado de Realm a Retrofit\pueblos con Retrofit adaptado\app\src\main\AndroidManifest.xml:20:9-54
+		ADDED from /Users/santi/Documents/trabajo_instituto/instituto_22_23/PMDM/PROYECTOS DE CLASE/android studio/VERSIONES APP PUEBLOS/ULTIMA VERSIÓN PUEBLOS API REST/Pueblos-Retrofit/app/src/main/AndroidManifest.xml:20:9-54
 	tools:targetApi
-		ADDED from C:\Users\santi\Desktop\PUEBLOS adaptado de Realm a Retrofit\pueblos con Retrofit adaptado\app\src\main\AndroidManifest.xml:23:9-29
+		ADDED from /Users/santi/Documents/trabajo_instituto/instituto_22_23/PMDM/PROYECTOS DE CLASE/android studio/VERSIONES APP PUEBLOS/ULTIMA VERSIÓN PUEBLOS API REST/Pueblos-Retrofit/app/src/main/AndroidManifest.xml:23:9-29
 	android:icon
-		ADDED from C:\Users\santi\Desktop\PUEBLOS adaptado de Realm a Retrofit\pueblos con Retrofit adaptado\app\src\main\AndroidManifest.xml:18:9-43
+		ADDED from /Users/santi/Documents/trabajo_instituto/instituto_22_23/PMDM/PROYECTOS DE CLASE/android studio/VERSIONES APP PUEBLOS/ULTIMA VERSIÓN PUEBLOS API REST/Pueblos-Retrofit/app/src/main/AndroidManifest.xml:18:9-43
 	android:allowBackup
-		ADDED from C:\Users\santi\Desktop\PUEBLOS adaptado de Realm a Retrofit\pueblos con Retrofit adaptado\app\src\main\AndroidManifest.xml:15:9-35
+		ADDED from /Users/santi/Documents/trabajo_instituto/instituto_22_23/PMDM/PROYECTOS DE CLASE/android studio/VERSIONES APP PUEBLOS/ULTIMA VERSIÓN PUEBLOS API REST/Pueblos-Retrofit/app/src/main/AndroidManifest.xml:15:9-35
 	android:theme
-		ADDED from C:\Users\santi\Desktop\PUEBLOS adaptado de Realm a Retrofit\pueblos con Retrofit adaptado\app\src\main\AndroidManifest.xml:22:9-65
+		ADDED from /Users/santi/Documents/trabajo_instituto/instituto_22_23/PMDM/PROYECTOS DE CLASE/android studio/VERSIONES APP PUEBLOS/ULTIMA VERSIÓN PUEBLOS API REST/Pueblos-Retrofit/app/src/main/AndroidManifest.xml:22:9-65
 	android:dataExtractionRules
-		ADDED from C:\Users\santi\Desktop\PUEBLOS adaptado de Realm a Retrofit\pueblos con Retrofit adaptado\app\src\main\AndroidManifest.xml:16:9-65
+		ADDED from /Users/santi/Documents/trabajo_instituto/instituto_22_23/PMDM/PROYECTOS DE CLASE/android studio/VERSIONES APP PUEBLOS/ULTIMA VERSIÓN PUEBLOS API REST/Pueblos-Retrofit/app/src/main/AndroidManifest.xml:16:9-65
 	android:usesCleartextTraffic
-		ADDED from C:\Users\santi\Desktop\PUEBLOS adaptado de Realm a Retrofit\pueblos con Retrofit adaptado\app\src\main\AndroidManifest.xml:13:9-44
+		ADDED from /Users/santi/Documents/trabajo_instituto/instituto_22_23/PMDM/PROYECTOS DE CLASE/android studio/VERSIONES APP PUEBLOS/ULTIMA VERSIÓN PUEBLOS API REST/Pueblos-Retrofit/app/src/main/AndroidManifest.xml:13:9-44
 	android:name
-		ADDED from C:\Users\santi\Desktop\PUEBLOS adaptado de Realm a Retrofit\pueblos con Retrofit adaptado\app\src\main\AndroidManifest.xml:14:9-41
+		ADDED from /Users/santi/Documents/trabajo_instituto/instituto_22_23/PMDM/PROYECTOS DE CLASE/android studio/VERSIONES APP PUEBLOS/ULTIMA VERSIÓN PUEBLOS API REST/Pueblos-Retrofit/app/src/main/AndroidManifest.xml:14:9-41
 activity#com.pmdm.virgen.pueblosconnavigationdrawer2.activity.DetallePuebloActivity
-ADDED from C:\Users\santi\Desktop\PUEBLOS adaptado de Realm a Retrofit\pueblos con Retrofit adaptado\app\src\main\AndroidManifest.xml:24:9-28:84
+ADDED from /Users/santi/Documents/trabajo_instituto/instituto_22_23/PMDM/PROYECTOS DE CLASE/android studio/VERSIONES APP PUEBLOS/ULTIMA VERSIÓN PUEBLOS API REST/Pueblos-Retrofit/app/src/main/AndroidManifest.xml:24:9-28:84
 	android:label
-		ADDED from C:\Users\santi\Desktop\PUEBLOS adaptado de Realm a Retrofit\pueblos con Retrofit adaptado\app\src\main\AndroidManifest.xml:27:13-29
+		ADDED from /Users/santi/Documents/trabajo_instituto/instituto_22_23/PMDM/PROYECTOS DE CLASE/android studio/VERSIONES APP PUEBLOS/ULTIMA VERSIÓN PUEBLOS API REST/Pueblos-Retrofit/app/src/main/AndroidManifest.xml:27:13-29
 	android:exported
-		ADDED from C:\Users\santi\Desktop\PUEBLOS adaptado de Realm a Retrofit\pueblos con Retrofit adaptado\app\src\main\AndroidManifest.xml:26:13-37
+		ADDED from /Users/santi/Documents/trabajo_instituto/instituto_22_23/PMDM/PROYECTOS DE CLASE/android studio/VERSIONES APP PUEBLOS/ULTIMA VERSIÓN PUEBLOS API REST/Pueblos-Retrofit/app/src/main/AndroidManifest.xml:26:13-37
 	android:theme
-		ADDED from C:\Users\santi\Desktop\PUEBLOS adaptado de Realm a Retrofit\pueblos con Retrofit adaptado\app\src\main\AndroidManifest.xml:28:13-81
+		ADDED from /Users/santi/Documents/trabajo_instituto/instituto_22_23/PMDM/PROYECTOS DE CLASE/android studio/VERSIONES APP PUEBLOS/ULTIMA VERSIÓN PUEBLOS API REST/Pueblos-Retrofit/app/src/main/AndroidManifest.xml:28:13-81
 	android:name
-		ADDED from C:\Users\santi\Desktop\PUEBLOS adaptado de Realm a Retrofit\pueblos con Retrofit adaptado\app\src\main\AndroidManifest.xml:25:13-59
+		ADDED from /Users/santi/Documents/trabajo_instituto/instituto_22_23/PMDM/PROYECTOS DE CLASE/android studio/VERSIONES APP PUEBLOS/ULTIMA VERSIÓN PUEBLOS API REST/Pueblos-Retrofit/app/src/main/AndroidManifest.xml:25:13-59
 activity#com.pmdm.virgen.pueblosconnavigationdrawer2.activity.MainActivity
-ADDED from C:\Users\santi\Desktop\PUEBLOS adaptado de Realm a Retrofit\pueblos con Retrofit adaptado\app\src\main\AndroidManifest.xml:29:9-34:20
+ADDED from /Users/santi/Documents/trabajo_instituto/instituto_22_23/PMDM/PROYECTOS DE CLASE/android studio/VERSIONES APP PUEBLOS/ULTIMA VERSIÓN PUEBLOS API REST/Pueblos-Retrofit/app/src/main/AndroidManifest.xml:29:9-34:20
 	android:label
-		ADDED from C:\Users\santi\Desktop\PUEBLOS adaptado de Realm a Retrofit\pueblos con Retrofit adaptado\app\src\main\AndroidManifest.xml:32:13-45
+		ADDED from /Users/santi/Documents/trabajo_instituto/instituto_22_23/PMDM/PROYECTOS DE CLASE/android studio/VERSIONES APP PUEBLOS/ULTIMA VERSIÓN PUEBLOS API REST/Pueblos-Retrofit/app/src/main/AndroidManifest.xml:32:13-45
 	android:exported
-		ADDED from C:\Users\santi\Desktop\PUEBLOS adaptado de Realm a Retrofit\pueblos con Retrofit adaptado\app\src\main\AndroidManifest.xml:31:13-36
+		ADDED from /Users/santi/Documents/trabajo_instituto/instituto_22_23/PMDM/PROYECTOS DE CLASE/android studio/VERSIONES APP PUEBLOS/ULTIMA VERSIÓN PUEBLOS API REST/Pueblos-Retrofit/app/src/main/AndroidManifest.xml:31:13-36
 	android:theme
-		ADDED from C:\Users\santi\Desktop\PUEBLOS adaptado de Realm a Retrofit\pueblos con Retrofit adaptado\app\src\main\AndroidManifest.xml:33:13-81
+		ADDED from /Users/santi/Documents/trabajo_instituto/instituto_22_23/PMDM/PROYECTOS DE CLASE/android studio/VERSIONES APP PUEBLOS/ULTIMA VERSIÓN PUEBLOS API REST/Pueblos-Retrofit/app/src/main/AndroidManifest.xml:33:13-81
 	android:name
-		ADDED from C:\Users\santi\Desktop\PUEBLOS adaptado de Realm a Retrofit\pueblos con Retrofit adaptado\app\src\main\AndroidManifest.xml:30:13-50
+		ADDED from /Users/santi/Documents/trabajo_instituto/instituto_22_23/PMDM/PROYECTOS DE CLASE/android studio/VERSIONES APP PUEBLOS/ULTIMA VERSIÓN PUEBLOS API REST/Pueblos-Retrofit/app/src/main/AndroidManifest.xml:30:13-50
 activity#com.pmdm.virgen.pueblosconnavigationdrawer2.activity.Login
-ADDED from C:\Users\santi\Desktop\PUEBLOS adaptado de Realm a Retrofit\pueblos con Retrofit adaptado\app\src\main\AndroidManifest.xml:35:9-43:20
+ADDED from /Users/santi/Documents/trabajo_instituto/instituto_22_23/PMDM/PROYECTOS DE CLASE/android studio/VERSIONES APP PUEBLOS/ULTIMA VERSIÓN PUEBLOS API REST/Pueblos-Retrofit/app/src/main/AndroidManifest.xml:35:9-43:20
 	android:exported
-		ADDED from C:\Users\santi\Desktop\PUEBLOS adaptado de Realm a Retrofit\pueblos con Retrofit adaptado\app\src\main\AndroidManifest.xml:37:13-36
+		ADDED from /Users/santi/Documents/trabajo_instituto/instituto_22_23/PMDM/PROYECTOS DE CLASE/android studio/VERSIONES APP PUEBLOS/ULTIMA VERSIÓN PUEBLOS API REST/Pueblos-Retrofit/app/src/main/AndroidManifest.xml:37:13-36
 	android:name
-		ADDED from C:\Users\santi\Desktop\PUEBLOS adaptado de Realm a Retrofit\pueblos con Retrofit adaptado\app\src\main\AndroidManifest.xml:36:13-43
+		ADDED from /Users/santi/Documents/trabajo_instituto/instituto_22_23/PMDM/PROYECTOS DE CLASE/android studio/VERSIONES APP PUEBLOS/ULTIMA VERSIÓN PUEBLOS API REST/Pueblos-Retrofit/app/src/main/AndroidManifest.xml:36:13-43
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\santi\Desktop\PUEBLOS adaptado de Realm a Retrofit\pueblos con Retrofit adaptado\app\src\main\AndroidManifest.xml:38:13-42:29
+ADDED from /Users/santi/Documents/trabajo_instituto/instituto_22_23/PMDM/PROYECTOS DE CLASE/android studio/VERSIONES APP PUEBLOS/ULTIMA VERSIÓN PUEBLOS API REST/Pueblos-Retrofit/app/src/main/AndroidManifest.xml:38:13-42:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\santi\Desktop\PUEBLOS adaptado de Realm a Retrofit\pueblos con Retrofit adaptado\app\src\main\AndroidManifest.xml:39:17-69
+ADDED from /Users/santi/Documents/trabajo_instituto/instituto_22_23/PMDM/PROYECTOS DE CLASE/android studio/VERSIONES APP PUEBLOS/ULTIMA VERSIÓN PUEBLOS API REST/Pueblos-Retrofit/app/src/main/AndroidManifest.xml:39:17-69
 	android:name
-		ADDED from C:\Users\santi\Desktop\PUEBLOS adaptado de Realm a Retrofit\pueblos con Retrofit adaptado\app\src\main\AndroidManifest.xml:39:25-66
+		ADDED from /Users/santi/Documents/trabajo_instituto/instituto_22_23/PMDM/PROYECTOS DE CLASE/android studio/VERSIONES APP PUEBLOS/ULTIMA VERSIÓN PUEBLOS API REST/Pueblos-Retrofit/app/src/main/AndroidManifest.xml:39:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\santi\Desktop\PUEBLOS adaptado de Realm a Retrofit\pueblos con Retrofit adaptado\app\src\main\AndroidManifest.xml:41:17-77
+ADDED from /Users/santi/Documents/trabajo_instituto/instituto_22_23/PMDM/PROYECTOS DE CLASE/android studio/VERSIONES APP PUEBLOS/ULTIMA VERSIÓN PUEBLOS API REST/Pueblos-Retrofit/app/src/main/AndroidManifest.xml:41:17-77
 	android:name
-		ADDED from C:\Users\santi\Desktop\PUEBLOS adaptado de Realm a Retrofit\pueblos con Retrofit adaptado\app\src\main\AndroidManifest.xml:41:27-74
+		ADDED from /Users/santi/Documents/trabajo_instituto/instituto_22_23/PMDM/PROYECTOS DE CLASE/android studio/VERSIONES APP PUEBLOS/ULTIMA VERSIÓN PUEBLOS API REST/Pueblos-Retrofit/app/src/main/AndroidManifest.xml:41:27-74
 uses-sdk
-INJECTED from C:\Users\santi\Desktop\PUEBLOS adaptado de Realm a Retrofit\pueblos con Retrofit adaptado\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from C:\Users\santi\Desktop\PUEBLOS adaptado de Realm a Retrofit\pueblos con Retrofit adaptado\app\src\main\AndroidManifest.xml
-INJECTED from C:\Users\santi\Desktop\PUEBLOS adaptado de Realm a Retrofit\pueblos con Retrofit adaptado\app\src\main\AndroidManifest.xml
-MERGED from [io.realm:realm-android-library:10.11.1] C:\Users\santi\.gradle\caches\transforms-3\eb5524d6962e3f74acc4d394e98439e3\transformed\realm-android-library-10.11.1\AndroidManifest.xml:5:5-7:41
-MERGED from [io.realm:realm-android-library:10.11.1] C:\Users\santi\.gradle\caches\transforms-3\eb5524d6962e3f74acc4d394e98439e3\transformed\realm-android-library-10.11.1\AndroidManifest.xml:5:5-7:41
-MERGED from [androidx.databinding:viewbinding:7.2.2] C:\Users\santi\.gradle\caches\transforms-3\3eb66f0a48f312078451de398b1a002f\transformed\viewbinding-7.2.2\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.databinding:viewbinding:7.2.2] C:\Users\santi\.gradle\caches\transforms-3\3eb66f0a48f312078451de398b1a002f\transformed\viewbinding-7.2.2\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.navigation:navigation-ui:2.5.3] C:\Users\santi\.gradle\caches\transforms-3\9684fa66f72f0f9518b59e12832df2af\transformed\navigation-ui-2.5.3\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.navigation:navigation-ui:2.5.3] C:\Users\santi\.gradle\caches\transforms-3\9684fa66f72f0f9518b59e12832df2af\transformed\navigation-ui-2.5.3\AndroidManifest.xml:20:5-22:41
-MERGED from [com.google.android.material:material:1.7.0] C:\Users\santi\.gradle\caches\transforms-3\4cb9317d1f0b7576f6dd57f6ab831758\transformed\material-1.7.0\AndroidManifest.xml:20:5-22:41
-MERGED from [com.google.android.material:material:1.7.0] C:\Users\santi\.gradle\caches\transforms-3\4cb9317d1f0b7576f6dd57f6ab831758\transformed\material-1.7.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\santi\.gradle\caches\transforms-3\d165c79b2dd7b78e13d6c9c7a4b56e6d\transformed\constraintlayout-2.1.4\AndroidManifest.xml:5:5-7:41
-MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\santi\.gradle\caches\transforms-3\d165c79b2dd7b78e13d6c9c7a4b56e6d\transformed\constraintlayout-2.1.4\AndroidManifest.xml:5:5-7:41
-MERGED from [androidx.appcompat:appcompat-resources:1.5.1] C:\Users\santi\.gradle\caches\transforms-3\4d0837cbe478b584c8e32114c6989702\transformed\appcompat-resources-1.5.1\AndroidManifest.xml:20:5-44
-MERGED from [androidx.appcompat:appcompat-resources:1.5.1] C:\Users\santi\.gradle\caches\transforms-3\4d0837cbe478b584c8e32114c6989702\transformed\appcompat-resources-1.5.1\AndroidManifest.xml:20:5-44
-MERGED from [androidx.appcompat:appcompat:1.5.1] C:\Users\santi\.gradle\caches\transforms-3\700810d9cc4bd26f9b42fd92fa68f35d\transformed\appcompat-1.5.1\AndroidManifest.xml:20:5-44
-MERGED from [androidx.appcompat:appcompat:1.5.1] C:\Users\santi\.gradle\caches\transforms-3\700810d9cc4bd26f9b42fd92fa68f35d\transformed\appcompat-1.5.1\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.5.1] C:\Users\santi\.gradle\caches\transforms-3\60ac727ee9128380027ed4e827bd0bbf\transformed\lifecycle-livedata-ktx-2.5.1\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.5.1] C:\Users\santi\.gradle\caches\transforms-3\60ac727ee9128380027ed4e827bd0bbf\transformed\lifecycle-livedata-ktx-2.5.1\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.navigation:navigation-fragment:2.5.3] C:\Users\santi\.gradle\caches\transforms-3\f76ce72c0a590be2a9a41f2e450c323d\transformed\navigation-fragment-2.5.3\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.navigation:navigation-fragment:2.5.3] C:\Users\santi\.gradle\caches\transforms-3\f76ce72c0a590be2a9a41f2e450c323d\transformed\navigation-fragment-2.5.3\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.fragment:fragment-ktx:1.5.4] C:\Users\santi\.gradle\caches\transforms-3\82cf6c77a8e34c03fb6adff18273e304\transformed\fragment-ktx-1.5.4\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.fragment:fragment-ktx:1.5.4] C:\Users\santi\.gradle\caches\transforms-3\82cf6c77a8e34c03fb6adff18273e304\transformed\fragment-ktx-1.5.4\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.navigation:navigation-runtime:2.5.3] C:\Users\santi\.gradle\caches\transforms-3\d84c8ba98b4bbfdf114f163a41377124\transformed\navigation-runtime-2.5.3\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.navigation:navigation-runtime:2.5.3] C:\Users\santi\.gradle\caches\transforms-3\d84c8ba98b4bbfdf114f163a41377124\transformed\navigation-runtime-2.5.3\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.activity:activity-ktx:1.5.1] C:\Users\santi\.gradle\caches\transforms-3\1cce6d0784a675802819f11ee4deca7c\transformed\activity-ktx-1.5.1\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.activity:activity-ktx:1.5.1] C:\Users\santi\.gradle\caches\transforms-3\1cce6d0784a675802819f11ee4deca7c\transformed\activity-ktx-1.5.1\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.navigation:navigation-common:2.5.3] C:\Users\santi\.gradle\caches\transforms-3\e3484b7107f0f7935cd44e03498828e2\transformed\navigation-common-2.5.3\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.navigation:navigation-common:2.5.3] C:\Users\santi\.gradle\caches\transforms-3\e3484b7107f0f7935cd44e03498828e2\transformed\navigation-common-2.5.3\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.5.1] C:\Users\santi\.gradle\caches\transforms-3\20c8ec3f5f45742dc0c12ba342d5312a\transformed\lifecycle-viewmodel-ktx-2.5.1\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.5.1] C:\Users\santi\.gradle\caches\transforms-3\20c8ec3f5f45742dc0c12ba342d5312a\transformed\lifecycle-viewmodel-ktx-2.5.1\AndroidManifest.xml:20:5-22:41
-MERGED from [com.github.bumptech.glide:glide:4.13.2] C:\Users\santi\.gradle\caches\transforms-3\530fa205363ffbd07d855bd4b85a7b39\transformed\glide-4.13.2\AndroidManifest.xml:6:5-8:41
-MERGED from [com.github.bumptech.glide:glide:4.13.2] C:\Users\santi\.gradle\caches\transforms-3\530fa205363ffbd07d855bd4b85a7b39\transformed\glide-4.13.2\AndroidManifest.xml:6:5-8:41
-MERGED from [com.getkeepsafe.relinker:relinker:1.4.3] C:\Users\santi\.gradle\caches\transforms-3\b0ae065056f5416d8d350ad4d976ef5a\transformed\relinker-1.4.3\AndroidManifest.xml:5:5-43
-MERGED from [com.getkeepsafe.relinker:relinker:1.4.3] C:\Users\santi\.gradle\caches\transforms-3\b0ae065056f5416d8d350ad4d976ef5a\transformed\relinker-1.4.3\AndroidManifest.xml:5:5-43
-MERGED from [io.reactivex.rxjava2:rxandroid:2.1.1] C:\Users\santi\.gradle\caches\transforms-3\8afa1687bda4490d17f2c9e8a3726ebd\transformed\rxandroid-2.1.1\AndroidManifest.xml:18:5-43
-MERGED from [io.reactivex.rxjava2:rxandroid:2.1.1] C:\Users\santi\.gradle\caches\transforms-3\8afa1687bda4490d17f2c9e8a3726ebd\transformed\rxandroid-2.1.1\AndroidManifest.xml:18:5-43
-MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\santi\.gradle\caches\transforms-3\0a40459a71266ab69bfefdd80cf1d847\transformed\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\santi\.gradle\caches\transforms-3\0a40459a71266ab69bfefdd80cf1d847\transformed\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.fragment:fragment:1.5.4] C:\Users\santi\.gradle\caches\transforms-3\4c7a380b3379e88ade1d346204b9ea2e\transformed\fragment-1.5.4\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.fragment:fragment:1.5.4] C:\Users\santi\.gradle\caches\transforms-3\4c7a380b3379e88ade1d346204b9ea2e\transformed\fragment-1.5.4\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.activity:activity:1.5.1] C:\Users\santi\.gradle\caches\transforms-3\c69b0d50a9b3d76aa901b001b688c19b\transformed\activity-1.5.1\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.activity:activity:1.5.1] C:\Users\santi\.gradle\caches\transforms-3\c69b0d50a9b3d76aa901b001b688c19b\transformed\activity-1.5.1\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\santi\.gradle\caches\transforms-3\429bd05e606226213ec3543ccd4bf5aa\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\santi\.gradle\caches\transforms-3\429bd05e606226213ec3543ccd4bf5aa\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\santi\.gradle\caches\transforms-3\e41d5375e637910ad0cbdc5be6bfa639\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\santi\.gradle\caches\transforms-3\e41d5375e637910ad0cbdc5be6bfa639\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.loader:loader:1.0.0] C:\Users\santi\.gradle\caches\transforms-3\6dd5d9edeea1623569310f339e2f9c32\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.loader:loader:1.0.0] C:\Users\santi\.gradle\caches\transforms-3\6dd5d9edeea1623569310f339e2f9c32\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] C:\Users\santi\.gradle\caches\transforms-3\d59879fe6a7bdbb2e3fc1f711f520ceb\transformed\lifecycle-viewmodel-2.5.1\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] C:\Users\santi\.gradle\caches\transforms-3\d59879fe6a7bdbb2e3fc1f711f520ceb\transformed\lifecycle-viewmodel-2.5.1\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] C:\Users\santi\.gradle\caches\transforms-3\a8f5b2317b4a9868ff3b26cf713f0e59\transformed\lifecycle-viewmodel-savedstate-2.5.1\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] C:\Users\santi\.gradle\caches\transforms-3\a8f5b2317b4a9868ff3b26cf713f0e59\transformed\lifecycle-viewmodel-savedstate-2.5.1\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.core:core-ktx:1.8.0] C:\Users\santi\.gradle\caches\transforms-3\5c552f08318696991cb692240e41c624\transformed\core-ktx-1.8.0\AndroidManifest.xml:5:5-7:41
-MERGED from [androidx.core:core-ktx:1.8.0] C:\Users\santi\.gradle\caches\transforms-3\5c552f08318696991cb692240e41c624\transformed\core-ktx-1.8.0\AndroidManifest.xml:5:5-7:41
-MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] C:\Users\santi\.gradle\caches\transforms-3\91202a67994304c169693066bc8b1dc7\transformed\emoji2-views-helper-1.2.0\AndroidManifest.xml:5:5-44
-MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] C:\Users\santi\.gradle\caches\transforms-3\91202a67994304c169693066bc8b1dc7\transformed\emoji2-views-helper-1.2.0\AndroidManifest.xml:5:5-44
-MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\santi\.gradle\caches\transforms-3\c0f028a7581f752c8f4e679dad5fd148\transformed\emoji2-1.2.0\AndroidManifest.xml:21:5-44
-MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\santi\.gradle\caches\transforms-3\c0f028a7581f752c8f4e679dad5fd148\transformed\emoji2-1.2.0\AndroidManifest.xml:21:5-44
-MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\santi\.gradle\caches\transforms-3\c38f5589df0c586355b04c1e9f79b2eb\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\santi\.gradle\caches\transforms-3\c38f5589df0c586355b04c1e9f79b2eb\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\santi\.gradle\caches\transforms-3\0bcbcb3bc74369c7630b566964b3fe0b\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\santi\.gradle\caches\transforms-3\0bcbcb3bc74369c7630b566964b3fe0b\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\santi\.gradle\caches\transforms-3\2bd277a02f496ff5a422bd3da3db8b15\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\santi\.gradle\caches\transforms-3\2bd277a02f496ff5a422bd3da3db8b15\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\santi\.gradle\caches\transforms-3\fbd190c776ce114ce546ad3c26e6b5bf\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\santi\.gradle\caches\transforms-3\fbd190c776ce114ce546ad3c26e6b5bf\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] C:\Users\santi\.gradle\caches\transforms-3\716693239b9fd452621b9951efedc38d\transformed\slidingpanelayout-1.2.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] C:\Users\santi\.gradle\caches\transforms-3\716693239b9fd452621b9951efedc38d\transformed\slidingpanelayout-1.2.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\santi\.gradle\caches\transforms-3\b766ede6e5f9e4bc0fe1aaa4d61c4378\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\santi\.gradle\caches\transforms-3\b766ede6e5f9e4bc0fe1aaa4d61c4378\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\santi\.gradle\caches\transforms-3\5a6148d8a313dc0014e78ca49e4aed87\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\santi\.gradle\caches\transforms-3\5a6148d8a313dc0014e78ca49e4aed87\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.customview:customview:1.1.0] C:\Users\santi\.gradle\caches\transforms-3\0220ad3f822f5b198dc7d82b4e3898ee\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.customview:customview:1.1.0] C:\Users\santi\.gradle\caches\transforms-3\0220ad3f822f5b198dc7d82b4e3898ee\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.transition:transition:1.4.1] C:\Users\santi\.gradle\caches\transforms-3\0428f23f1198f4d60285d8298972a2dc\transformed\transition-1.4.1\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.transition:transition:1.4.1] C:\Users\santi\.gradle\caches\transforms-3\0428f23f1198f4d60285d8298972a2dc\transformed\transition-1.4.1\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.window:window:1.0.0] C:\Users\santi\.gradle\caches\transforms-3\eecd6174fbb037b0e67e37d13a56d0dc\transformed\window-1.0.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.window:window:1.0.0] C:\Users\santi\.gradle\caches\transforms-3\eecd6174fbb037b0e67e37d13a56d0dc\transformed\window-1.0.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.core:core:1.8.0] C:\Users\santi\.gradle\caches\transforms-3\434770190f62254a8a1bc99defa74148\transformed\core-1.8.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.core:core:1.8.0] C:\Users\santi\.gradle\caches\transforms-3\434770190f62254a8a1bc99defa74148\transformed\core-1.8.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\santi\.gradle\caches\transforms-3\d48fc0209bc834356a78712e8d8d4614\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\santi\.gradle\caches\transforms-3\d48fc0209bc834356a78712e8d8d4614\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\santi\.gradle\caches\transforms-3\2a4534eef0f3d60e8ed17ddded7bb5c4\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:21:5-23:41
-MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\santi\.gradle\caches\transforms-3\2a4534eef0f3d60e8ed17ddded7bb5c4\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:21:5-23:41
-MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.5.1] C:\Users\santi\.gradle\caches\transforms-3\b4a99c1c4a9a6b4ed7fb12b11706dd6c\transformed\lifecycle-runtime-ktx-2.5.1\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.5.1] C:\Users\santi\.gradle\caches\transforms-3\b4a99c1c4a9a6b4ed7fb12b11706dd6c\transformed\lifecycle-runtime-ktx-2.5.1\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] C:\Users\santi\.gradle\caches\transforms-3\6a61df14e82d91dfa6dab68d1207438a\transformed\lifecycle-runtime-2.5.1\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] C:\Users\santi\.gradle\caches\transforms-3\6a61df14e82d91dfa6dab68d1207438a\transformed\lifecycle-runtime-2.5.1\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.savedstate:savedstate-ktx:1.2.0] C:\Users\santi\.gradle\caches\transforms-3\45ed24c475c48c21fefced736af1af3f\transformed\savedstate-ktx-1.2.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.savedstate:savedstate-ktx:1.2.0] C:\Users\santi\.gradle\caches\transforms-3\45ed24c475c48c21fefced736af1af3f\transformed\savedstate-ktx-1.2.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.savedstate:savedstate:1.2.0] C:\Users\santi\.gradle\caches\transforms-3\b35ac3d71db7488d95f7b0266bc2c0d5\transformed\savedstate-1.2.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.savedstate:savedstate:1.2.0] C:\Users\santi\.gradle\caches\transforms-3\b35ac3d71db7488d95f7b0266bc2c0d5\transformed\savedstate-1.2.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\santi\.gradle\caches\transforms-3\160fd0e3a85cc62aac43da34a667c214\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\santi\.gradle\caches\transforms-3\160fd0e3a85cc62aac43da34a667c214\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [com.github.bumptech.glide:gifdecoder:4.13.2] C:\Users\santi\.gradle\caches\transforms-3\103d860b7ddef3c7502fc0b6259b1ec6\transformed\gifdecoder-4.13.2\AndroidManifest.xml:5:5-7:41
-MERGED from [com.github.bumptech.glide:gifdecoder:4.13.2] C:\Users\santi\.gradle\caches\transforms-3\103d860b7ddef3c7502fc0b6259b1ec6\transformed\gifdecoder-4.13.2\AndroidManifest.xml:5:5-7:41
-MERGED from [androidx.exifinterface:exifinterface:1.2.0] C:\Users\santi\.gradle\caches\transforms-3\0ce5a9890fc14b060dd1c64c070f5440\transformed\exifinterface-1.2.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.exifinterface:exifinterface:1.2.0] C:\Users\santi\.gradle\caches\transforms-3\0ce5a9890fc14b060dd1c64c070f5440\transformed\exifinterface-1.2.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\santi\.gradle\caches\transforms-3\bb62f8111900beafcfd11538e5ab232f\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
-MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\santi\.gradle\caches\transforms-3\bb62f8111900beafcfd11538e5ab232f\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
-MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\santi\.gradle\caches\transforms-3\813b4c378e8078cd6511cd9249b1207b\transformed\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\santi\.gradle\caches\transforms-3\813b4c378e8078cd6511cd9249b1207b\transformed\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\santi\.gradle\caches\transforms-3\3c08fbb78be18a6f9c99a57f1d75b24f\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\santi\.gradle\caches\transforms-3\3c08fbb78be18a6f9c99a57f1d75b24f\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.5.1] C:\Users\santi\.gradle\caches\transforms-3\1c2cc212b43e105ece9eb1db1335778e\transformed\lifecycle-livedata-2.5.1\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.5.1] C:\Users\santi\.gradle\caches\transforms-3\1c2cc212b43e105ece9eb1db1335778e\transformed\lifecycle-livedata-2.5.1\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.5.1] C:\Users\santi\.gradle\caches\transforms-3\b6f0a442233b7c8639a34bd4ea55fc22\transformed\lifecycle-livedata-core-ktx-2.5.1\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.5.1] C:\Users\santi\.gradle\caches\transforms-3\b6f0a442233b7c8639a34bd4ea55fc22\transformed\lifecycle-livedata-core-ktx-2.5.1\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] C:\Users\santi\.gradle\caches\transforms-3\72e73a3f4986f7bffa98620644ba397e\transformed\lifecycle-livedata-core-2.5.1\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] C:\Users\santi\.gradle\caches\transforms-3\72e73a3f4986f7bffa98620644ba397e\transformed\lifecycle-livedata-core-2.5.1\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\santi\.gradle\caches\transforms-3\647ccb27ae49bedf1237fdddf7883b3b\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\santi\.gradle\caches\transforms-3\647ccb27ae49bedf1237fdddf7883b3b\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\santi\.gradle\caches\transforms-3\89e84c99b9ecf05d28a78bf926c2dd40\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\santi\.gradle\caches\transforms-3\89e84c99b9ecf05d28a78bf926c2dd40\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\santi\.gradle\caches\transforms-3\57b4de44efd0e44a64a45c54ae405d43\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\santi\.gradle\caches\transforms-3\57b4de44efd0e44a64a45c54ae405d43\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\santi\.gradle\caches\transforms-3\47507ffd26ecf4813c1ef6c6fe7eb582\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\santi\.gradle\caches\transforms-3\47507ffd26ecf4813c1ef6c6fe7eb582\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.print:print:1.0.0] C:\Users\santi\.gradle\caches\transforms-3\e035456a3e1776256ea475925bd6ea48\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.print:print:1.0.0] C:\Users\santi\.gradle\caches\transforms-3\e035456a3e1776256ea475925bd6ea48\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\santi\.gradle\caches\transforms-3\9e0959fba29a84ab8a546bd7a2f8edbd\transformed\annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\santi\.gradle\caches\transforms-3\9e0959fba29a84ab8a546bd7a2f8edbd\transformed\annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
-INJECTED from C:\Users\santi\Desktop\PUEBLOS adaptado de Realm a Retrofit\pueblos con Retrofit adaptado\app\src\main\AndroidManifest.xml
-INJECTED from C:\Users\santi\Desktop\PUEBLOS adaptado de Realm a Retrofit\pueblos con Retrofit adaptado\app\src\main\AndroidManifest.xml
+INJECTED from /Users/santi/Documents/trabajo_instituto/instituto_22_23/PMDM/PROYECTOS DE CLASE/android studio/VERSIONES APP PUEBLOS/ULTIMA VERSIÓN PUEBLOS API REST/Pueblos-Retrofit/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/santi/Documents/trabajo_instituto/instituto_22_23/PMDM/PROYECTOS DE CLASE/android studio/VERSIONES APP PUEBLOS/ULTIMA VERSIÓN PUEBLOS API REST/Pueblos-Retrofit/app/src/main/AndroidManifest.xml
+INJECTED from /Users/santi/Documents/trabajo_instituto/instituto_22_23/PMDM/PROYECTOS DE CLASE/android studio/VERSIONES APP PUEBLOS/ULTIMA VERSIÓN PUEBLOS API REST/Pueblos-Retrofit/app/src/main/AndroidManifest.xml
+MERGED from [io.realm:realm-android-library:10.11.1] /Users/santi/.gradle/caches/transforms-3/eb5524d6962e3f74acc4d394e98439e3/transformed/realm-android-library-10.11.1/AndroidManifest.xml:5:5-7:41
+MERGED from [io.realm:realm-android-library:10.11.1] /Users/santi/.gradle/caches/transforms-3/eb5524d6962e3f74acc4d394e98439e3/transformed/realm-android-library-10.11.1/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.databinding:viewbinding:7.2.2] /Users/santi/.gradle/caches/transforms-3/3eb66f0a48f312078451de398b1a002f/transformed/viewbinding-7.2.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.databinding:viewbinding:7.2.2] /Users/santi/.gradle/caches/transforms-3/3eb66f0a48f312078451de398b1a002f/transformed/viewbinding-7.2.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui:2.5.3] /Users/santi/.gradle/caches/transforms-3/9684fa66f72f0f9518b59e12832df2af/transformed/navigation-ui-2.5.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui:2.5.3] /Users/santi/.gradle/caches/transforms-3/9684fa66f72f0f9518b59e12832df2af/transformed/navigation-ui-2.5.3/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.7.0] /Users/santi/.gradle/caches/transforms-3/4cb9317d1f0b7576f6dd57f6ab831758/transformed/material-1.7.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.7.0] /Users/santi/.gradle/caches/transforms-3/4cb9317d1f0b7576f6dd57f6ab831758/transformed/material-1.7.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/santi/.gradle/caches/transforms-3/d165c79b2dd7b78e13d6c9c7a4b56e6d/transformed/constraintlayout-2.1.4/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/santi/.gradle/caches/transforms-3/d165c79b2dd7b78e13d6c9c7a4b56e6d/transformed/constraintlayout-2.1.4/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat-resources:1.5.1] /Users/santi/.gradle/caches/transforms-3/4d0837cbe478b584c8e32114c6989702/transformed/appcompat-resources-1.5.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.5.1] /Users/santi/.gradle/caches/transforms-3/4d0837cbe478b584c8e32114c6989702/transformed/appcompat-resources-1.5.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.5.1] /Users/santi/.gradle/caches/transforms-3/700810d9cc4bd26f9b42fd92fa68f35d/transformed/appcompat-1.5.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.5.1] /Users/santi/.gradle/caches/transforms-3/700810d9cc4bd26f9b42fd92fa68f35d/transformed/appcompat-1.5.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.5.1] /Users/santi/.gradle/caches/transforms-3/60ac727ee9128380027ed4e827bd0bbf/transformed/lifecycle-livedata-ktx-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.5.1] /Users/santi/.gradle/caches/transforms-3/60ac727ee9128380027ed4e827bd0bbf/transformed/lifecycle-livedata-ktx-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment:2.5.3] /Users/santi/.gradle/caches/transforms-3/f76ce72c0a590be2a9a41f2e450c323d/transformed/navigation-fragment-2.5.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment:2.5.3] /Users/santi/.gradle/caches/transforms-3/f76ce72c0a590be2a9a41f2e450c323d/transformed/navigation-fragment-2.5.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.5.4] /Users/santi/.gradle/caches/transforms-3/82cf6c77a8e34c03fb6adff18273e304/transformed/fragment-ktx-1.5.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.5.4] /Users/santi/.gradle/caches/transforms-3/82cf6c77a8e34c03fb6adff18273e304/transformed/fragment-ktx-1.5.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.5.3] /Users/santi/.gradle/caches/transforms-3/d84c8ba98b4bbfdf114f163a41377124/transformed/navigation-runtime-2.5.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.5.3] /Users/santi/.gradle/caches/transforms-3/d84c8ba98b4bbfdf114f163a41377124/transformed/navigation-runtime-2.5.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.5.1] /Users/santi/.gradle/caches/transforms-3/1cce6d0784a675802819f11ee4deca7c/transformed/activity-ktx-1.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.5.1] /Users/santi/.gradle/caches/transforms-3/1cce6d0784a675802819f11ee4deca7c/transformed/activity-ktx-1.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.5.3] /Users/santi/.gradle/caches/transforms-3/e3484b7107f0f7935cd44e03498828e2/transformed/navigation-common-2.5.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.5.3] /Users/santi/.gradle/caches/transforms-3/e3484b7107f0f7935cd44e03498828e2/transformed/navigation-common-2.5.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.5.1] /Users/santi/.gradle/caches/transforms-3/20c8ec3f5f45742dc0c12ba342d5312a/transformed/lifecycle-viewmodel-ktx-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.5.1] /Users/santi/.gradle/caches/transforms-3/20c8ec3f5f45742dc0c12ba342d5312a/transformed/lifecycle-viewmodel-ktx-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.github.bumptech.glide:glide:4.13.2] /Users/santi/.gradle/caches/transforms-3/530fa205363ffbd07d855bd4b85a7b39/transformed/glide-4.13.2/AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.13.2] /Users/santi/.gradle/caches/transforms-3/530fa205363ffbd07d855bd4b85a7b39/transformed/glide-4.13.2/AndroidManifest.xml:6:5-8:41
+MERGED from [com.getkeepsafe.relinker:relinker:1.4.3] /Users/santi/.gradle/caches/transforms-3/b0ae065056f5416d8d350ad4d976ef5a/transformed/relinker-1.4.3/AndroidManifest.xml:5:5-43
+MERGED from [com.getkeepsafe.relinker:relinker:1.4.3] /Users/santi/.gradle/caches/transforms-3/b0ae065056f5416d8d350ad4d976ef5a/transformed/relinker-1.4.3/AndroidManifest.xml:5:5-43
+MERGED from [io.reactivex.rxjava2:rxandroid:2.1.1] /Users/santi/.gradle/caches/transforms-3/8afa1687bda4490d17f2c9e8a3726ebd/transformed/rxandroid-2.1.1/AndroidManifest.xml:18:5-43
+MERGED from [io.reactivex.rxjava2:rxandroid:2.1.1] /Users/santi/.gradle/caches/transforms-3/8afa1687bda4490d17f2c9e8a3726ebd/transformed/rxandroid-2.1.1/AndroidManifest.xml:18:5-43
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/santi/.gradle/caches/transforms-3/0a40459a71266ab69bfefdd80cf1d847/transformed/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/santi/.gradle/caches/transforms-3/0a40459a71266ab69bfefdd80cf1d847/transformed/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.5.4] /Users/santi/.gradle/caches/transforms-3/4c7a380b3379e88ade1d346204b9ea2e/transformed/fragment-1.5.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.5.4] /Users/santi/.gradle/caches/transforms-3/4c7a380b3379e88ade1d346204b9ea2e/transformed/fragment-1.5.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.5.1] /Users/santi/.gradle/caches/transforms-3/c69b0d50a9b3d76aa901b001b688c19b/transformed/activity-1.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.5.1] /Users/santi/.gradle/caches/transforms-3/c69b0d50a9b3d76aa901b001b688c19b/transformed/activity-1.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/santi/.gradle/caches/transforms-3/429bd05e606226213ec3543ccd4bf5aa/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/santi/.gradle/caches/transforms-3/429bd05e606226213ec3543ccd4bf5aa/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/santi/.gradle/caches/transforms-3/e41d5375e637910ad0cbdc5be6bfa639/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/santi/.gradle/caches/transforms-3/e41d5375e637910ad0cbdc5be6bfa639/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/santi/.gradle/caches/transforms-3/6dd5d9edeea1623569310f339e2f9c32/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/santi/.gradle/caches/transforms-3/6dd5d9edeea1623569310f339e2f9c32/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] /Users/santi/.gradle/caches/transforms-3/d59879fe6a7bdbb2e3fc1f711f520ceb/transformed/lifecycle-viewmodel-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] /Users/santi/.gradle/caches/transforms-3/d59879fe6a7bdbb2e3fc1f711f520ceb/transformed/lifecycle-viewmodel-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] /Users/santi/.gradle/caches/transforms-3/a8f5b2317b4a9868ff3b26cf713f0e59/transformed/lifecycle-viewmodel-savedstate-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] /Users/santi/.gradle/caches/transforms-3/a8f5b2317b4a9868ff3b26cf713f0e59/transformed/lifecycle-viewmodel-savedstate-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.8.0] /Users/santi/.gradle/caches/transforms-3/5c552f08318696991cb692240e41c624/transformed/core-ktx-1.8.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.8.0] /Users/santi/.gradle/caches/transforms-3/5c552f08318696991cb692240e41c624/transformed/core-ktx-1.8.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] /Users/santi/.gradle/caches/transforms-3/91202a67994304c169693066bc8b1dc7/transformed/emoji2-views-helper-1.2.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] /Users/santi/.gradle/caches/transforms-3/91202a67994304c169693066bc8b1dc7/transformed/emoji2-views-helper-1.2.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] /Users/santi/.gradle/caches/transforms-3/c0f028a7581f752c8f4e679dad5fd148/transformed/emoji2-1.2.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] /Users/santi/.gradle/caches/transforms-3/c0f028a7581f752c8f4e679dad5fd148/transformed/emoji2-1.2.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/santi/.gradle/caches/transforms-3/c38f5589df0c586355b04c1e9f79b2eb/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/santi/.gradle/caches/transforms-3/c38f5589df0c586355b04c1e9f79b2eb/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/santi/.gradle/caches/transforms-3/0bcbcb3bc74369c7630b566964b3fe0b/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/santi/.gradle/caches/transforms-3/0bcbcb3bc74369c7630b566964b3fe0b/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/santi/.gradle/caches/transforms-3/2bd277a02f496ff5a422bd3da3db8b15/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/santi/.gradle/caches/transforms-3/2bd277a02f496ff5a422bd3da3db8b15/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/santi/.gradle/caches/transforms-3/fbd190c776ce114ce546ad3c26e6b5bf/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/santi/.gradle/caches/transforms-3/fbd190c776ce114ce546ad3c26e6b5bf/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] /Users/santi/.gradle/caches/transforms-3/716693239b9fd452621b9951efedc38d/transformed/slidingpanelayout-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] /Users/santi/.gradle/caches/transforms-3/716693239b9fd452621b9951efedc38d/transformed/slidingpanelayout-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/santi/.gradle/caches/transforms-3/b766ede6e5f9e4bc0fe1aaa4d61c4378/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/santi/.gradle/caches/transforms-3/b766ede6e5f9e4bc0fe1aaa4d61c4378/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/santi/.gradle/caches/transforms-3/5a6148d8a313dc0014e78ca49e4aed87/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/santi/.gradle/caches/transforms-3/5a6148d8a313dc0014e78ca49e4aed87/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.1.0] /Users/santi/.gradle/caches/transforms-3/0220ad3f822f5b198dc7d82b4e3898ee/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] /Users/santi/.gradle/caches/transforms-3/0220ad3f822f5b198dc7d82b4e3898ee/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.4.1] /Users/santi/.gradle/caches/transforms-3/0428f23f1198f4d60285d8298972a2dc/transformed/transition-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.4.1] /Users/santi/.gradle/caches/transforms-3/0428f23f1198f4d60285d8298972a2dc/transformed/transition-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0] /Users/santi/.gradle/caches/transforms-3/eecd6174fbb037b0e67e37d13a56d0dc/transformed/window-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0] /Users/santi/.gradle/caches/transforms-3/eecd6174fbb037b0e67e37d13a56d0dc/transformed/window-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.8.0] /Users/santi/.gradle/caches/transforms-3/434770190f62254a8a1bc99defa74148/transformed/core-1.8.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.8.0] /Users/santi/.gradle/caches/transforms-3/434770190f62254a8a1bc99defa74148/transformed/core-1.8.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/santi/.gradle/caches/transforms-3/d48fc0209bc834356a78712e8d8d4614/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/santi/.gradle/caches/transforms-3/d48fc0209bc834356a78712e8d8d4614/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /Users/santi/.gradle/caches/transforms-3/2a4534eef0f3d60e8ed17ddded7bb5c4/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /Users/santi/.gradle/caches/transforms-3/2a4534eef0f3d60e8ed17ddded7bb5c4/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.5.1] /Users/santi/.gradle/caches/transforms-3/b4a99c1c4a9a6b4ed7fb12b11706dd6c/transformed/lifecycle-runtime-ktx-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.5.1] /Users/santi/.gradle/caches/transforms-3/b4a99c1c4a9a6b4ed7fb12b11706dd6c/transformed/lifecycle-runtime-ktx-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] /Users/santi/.gradle/caches/transforms-3/6a61df14e82d91dfa6dab68d1207438a/transformed/lifecycle-runtime-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] /Users/santi/.gradle/caches/transforms-3/6a61df14e82d91dfa6dab68d1207438a/transformed/lifecycle-runtime-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.0] /Users/santi/.gradle/caches/transforms-3/45ed24c475c48c21fefced736af1af3f/transformed/savedstate-ktx-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.0] /Users/santi/.gradle/caches/transforms-3/45ed24c475c48c21fefced736af1af3f/transformed/savedstate-ktx-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.2.0] /Users/santi/.gradle/caches/transforms-3/b35ac3d71db7488d95f7b0266bc2c0d5/transformed/savedstate-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.2.0] /Users/santi/.gradle/caches/transforms-3/b35ac3d71db7488d95f7b0266bc2c0d5/transformed/savedstate-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/santi/.gradle/caches/transforms-3/160fd0e3a85cc62aac43da34a667c214/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/santi/.gradle/caches/transforms-3/160fd0e3a85cc62aac43da34a667c214/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:gifdecoder:4.13.2] /Users/santi/.gradle/caches/transforms-3/103d860b7ddef3c7502fc0b6259b1ec6/transformed/gifdecoder-4.13.2/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.13.2] /Users/santi/.gradle/caches/transforms-3/103d860b7ddef3c7502fc0b6259b1ec6/transformed/gifdecoder-4.13.2/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.exifinterface:exifinterface:1.2.0] /Users/santi/.gradle/caches/transforms-3/0ce5a9890fc14b060dd1c64c070f5440/transformed/exifinterface-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.2.0] /Users/santi/.gradle/caches/transforms-3/0ce5a9890fc14b060dd1c64c070f5440/transformed/exifinterface-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/santi/.gradle/caches/transforms-3/bb62f8111900beafcfd11538e5ab232f/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/santi/.gradle/caches/transforms-3/bb62f8111900beafcfd11538e5ab232f/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/santi/.gradle/caches/transforms-3/813b4c378e8078cd6511cd9249b1207b/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/santi/.gradle/caches/transforms-3/813b4c378e8078cd6511cd9249b1207b/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/santi/.gradle/caches/transforms-3/3c08fbb78be18a6f9c99a57f1d75b24f/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/santi/.gradle/caches/transforms-3/3c08fbb78be18a6f9c99a57f1d75b24f/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.5.1] /Users/santi/.gradle/caches/transforms-3/1c2cc212b43e105ece9eb1db1335778e/transformed/lifecycle-livedata-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.5.1] /Users/santi/.gradle/caches/transforms-3/1c2cc212b43e105ece9eb1db1335778e/transformed/lifecycle-livedata-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.5.1] /Users/santi/.gradle/caches/transforms-3/b6f0a442233b7c8639a34bd4ea55fc22/transformed/lifecycle-livedata-core-ktx-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.5.1] /Users/santi/.gradle/caches/transforms-3/b6f0a442233b7c8639a34bd4ea55fc22/transformed/lifecycle-livedata-core-ktx-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] /Users/santi/.gradle/caches/transforms-3/72e73a3f4986f7bffa98620644ba397e/transformed/lifecycle-livedata-core-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] /Users/santi/.gradle/caches/transforms-3/72e73a3f4986f7bffa98620644ba397e/transformed/lifecycle-livedata-core-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/santi/.gradle/caches/transforms-3/647ccb27ae49bedf1237fdddf7883b3b/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/santi/.gradle/caches/transforms-3/647ccb27ae49bedf1237fdddf7883b3b/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/santi/.gradle/caches/transforms-3/89e84c99b9ecf05d28a78bf926c2dd40/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/santi/.gradle/caches/transforms-3/89e84c99b9ecf05d28a78bf926c2dd40/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/santi/.gradle/caches/transforms-3/57b4de44efd0e44a64a45c54ae405d43/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/santi/.gradle/caches/transforms-3/57b4de44efd0e44a64a45c54ae405d43/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/santi/.gradle/caches/transforms-3/47507ffd26ecf4813c1ef6c6fe7eb582/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/santi/.gradle/caches/transforms-3/47507ffd26ecf4813c1ef6c6fe7eb582/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/santi/.gradle/caches/transforms-3/e035456a3e1776256ea475925bd6ea48/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/santi/.gradle/caches/transforms-3/e035456a3e1776256ea475925bd6ea48/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/santi/.gradle/caches/transforms-3/9e0959fba29a84ab8a546bd7a2f8edbd/transformed/annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/santi/.gradle/caches/transforms-3/9e0959fba29a84ab8a546bd7a2f8edbd/transformed/annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/santi/Documents/trabajo_instituto/instituto_22_23/PMDM/PROYECTOS DE CLASE/android studio/VERSIONES APP PUEBLOS/ULTIMA VERSIÓN PUEBLOS API REST/Pueblos-Retrofit/app/src/main/AndroidManifest.xml
+INJECTED from /Users/santi/Documents/trabajo_instituto/instituto_22_23/PMDM/PROYECTOS DE CLASE/android studio/VERSIONES APP PUEBLOS/ULTIMA VERSIÓN PUEBLOS API REST/Pueblos-Retrofit/app/src/main/AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from C:\Users\santi\Desktop\PUEBLOS adaptado de Realm a Retrofit\pueblos con Retrofit adaptado\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\santi\Desktop\PUEBLOS adaptado de Realm a Retrofit\pueblos con Retrofit adaptado\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\santi\Desktop\PUEBLOS adaptado de Realm a Retrofit\pueblos con Retrofit adaptado\app\src\main\AndroidManifest.xml
+		INJECTED from /Users/santi/Documents/trabajo_instituto/instituto_22_23/PMDM/PROYECTOS DE CLASE/android studio/VERSIONES APP PUEBLOS/ULTIMA VERSIÓN PUEBLOS API REST/Pueblos-Retrofit/app/src/main/AndroidManifest.xml
+		ADDED from /Users/santi/Documents/trabajo_instituto/instituto_22_23/PMDM/PROYECTOS DE CLASE/android studio/VERSIONES APP PUEBLOS/ULTIMA VERSIÓN PUEBLOS API REST/Pueblos-Retrofit/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/santi/Documents/trabajo_instituto/instituto_22_23/PMDM/PROYECTOS DE CLASE/android studio/VERSIONES APP PUEBLOS/ULTIMA VERSIÓN PUEBLOS API REST/Pueblos-Retrofit/app/src/main/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from C:\Users\santi\Desktop\PUEBLOS adaptado de Realm a Retrofit\pueblos con Retrofit adaptado\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\santi\Desktop\PUEBLOS adaptado de Realm a Retrofit\pueblos con Retrofit adaptado\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\santi\Desktop\PUEBLOS adaptado de Realm a Retrofit\pueblos con Retrofit adaptado\app\src\main\AndroidManifest.xml
+		INJECTED from /Users/santi/Documents/trabajo_instituto/instituto_22_23/PMDM/PROYECTOS DE CLASE/android studio/VERSIONES APP PUEBLOS/ULTIMA VERSIÓN PUEBLOS API REST/Pueblos-Retrofit/app/src/main/AndroidManifest.xml
+		ADDED from /Users/santi/Documents/trabajo_instituto/instituto_22_23/PMDM/PROYECTOS DE CLASE/android studio/VERSIONES APP PUEBLOS/ULTIMA VERSIÓN PUEBLOS API REST/Pueblos-Retrofit/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/santi/Documents/trabajo_instituto/instituto_22_23/PMDM/PROYECTOS DE CLASE/android studio/VERSIONES APP PUEBLOS/ULTIMA VERSIÓN PUEBLOS API REST/Pueblos-Retrofit/app/src/main/AndroidManifest.xml
 provider#androidx.startup.InitializationProvider
-ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\santi\.gradle\caches\transforms-3\c0f028a7581f752c8f4e679dad5fd148\transformed\emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
-MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\santi\.gradle\caches\transforms-3\2a4534eef0f3d60e8ed17ddded7bb5c4\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:26:9-34:20
-MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\santi\.gradle\caches\transforms-3\2a4534eef0f3d60e8ed17ddded7bb5c4\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:26:9-34:20
-MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\santi\.gradle\caches\transforms-3\bb62f8111900beafcfd11538e5ab232f\transformed\startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
-MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\santi\.gradle\caches\transforms-3\bb62f8111900beafcfd11538e5ab232f\transformed\startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/santi/.gradle/caches/transforms-3/c0f028a7581f752c8f4e679dad5fd148/transformed/emoji2-1.2.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /Users/santi/.gradle/caches/transforms-3/2a4534eef0f3d60e8ed17ddded7bb5c4/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /Users/santi/.gradle/caches/transforms-3/2a4534eef0f3d60e8ed17ddded7bb5c4/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/santi/.gradle/caches/transforms-3/bb62f8111900beafcfd11538e5ab232f/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/santi/.gradle/caches/transforms-3/bb62f8111900beafcfd11538e5ab232f/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
 	tools:node
-		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\santi\.gradle\caches\transforms-3\c0f028a7581f752c8f4e679dad5fd148\transformed\emoji2-1.2.0\AndroidManifest.xml:28:13-31
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/santi/.gradle/caches/transforms-3/c0f028a7581f752c8f4e679dad5fd148/transformed/emoji2-1.2.0/AndroidManifest.xml:28:13-31
 	android:authorities
-		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\santi\.gradle\caches\transforms-3\c0f028a7581f752c8f4e679dad5fd148\transformed\emoji2-1.2.0\AndroidManifest.xml:26:13-68
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/santi/.gradle/caches/transforms-3/c0f028a7581f752c8f4e679dad5fd148/transformed/emoji2-1.2.0/AndroidManifest.xml:26:13-68
 	android:exported
-		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\santi\.gradle\caches\transforms-3\c0f028a7581f752c8f4e679dad5fd148\transformed\emoji2-1.2.0\AndroidManifest.xml:27:13-37
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/santi/.gradle/caches/transforms-3/c0f028a7581f752c8f4e679dad5fd148/transformed/emoji2-1.2.0/AndroidManifest.xml:27:13-37
 	android:name
-		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\santi\.gradle\caches\transforms-3\c0f028a7581f752c8f4e679dad5fd148\transformed\emoji2-1.2.0\AndroidManifest.xml:25:13-67
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/santi/.gradle/caches/transforms-3/c0f028a7581f752c8f4e679dad5fd148/transformed/emoji2-1.2.0/AndroidManifest.xml:25:13-67
 meta-data#androidx.emoji2.text.EmojiCompatInitializer
-ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\santi\.gradle\caches\transforms-3\c0f028a7581f752c8f4e679dad5fd148\transformed\emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/santi/.gradle/caches/transforms-3/c0f028a7581f752c8f4e679dad5fd148/transformed/emoji2-1.2.0/AndroidManifest.xml:29:13-31:52
 	android:value
-		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\santi\.gradle\caches\transforms-3\c0f028a7581f752c8f4e679dad5fd148\transformed\emoji2-1.2.0\AndroidManifest.xml:31:17-49
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/santi/.gradle/caches/transforms-3/c0f028a7581f752c8f4e679dad5fd148/transformed/emoji2-1.2.0/AndroidManifest.xml:31:17-49
 	android:name
-		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\santi\.gradle\caches\transforms-3\c0f028a7581f752c8f4e679dad5fd148\transformed\emoji2-1.2.0\AndroidManifest.xml:30:17-75
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/santi/.gradle/caches/transforms-3/c0f028a7581f752c8f4e679dad5fd148/transformed/emoji2-1.2.0/AndroidManifest.xml:30:17-75
 uses-library#androidx.window.extensions
-ADDED from [androidx.window:window:1.0.0] C:\Users\santi\.gradle\caches\transforms-3\eecd6174fbb037b0e67e37d13a56d0dc\transformed\window-1.0.0\AndroidManifest.xml:25:9-27:40
+ADDED from [androidx.window:window:1.0.0] /Users/santi/.gradle/caches/transforms-3/eecd6174fbb037b0e67e37d13a56d0dc/transformed/window-1.0.0/AndroidManifest.xml:25:9-27:40
 	android:required
-		ADDED from [androidx.window:window:1.0.0] C:\Users\santi\.gradle\caches\transforms-3\eecd6174fbb037b0e67e37d13a56d0dc\transformed\window-1.0.0\AndroidManifest.xml:27:13-37
+		ADDED from [androidx.window:window:1.0.0] /Users/santi/.gradle/caches/transforms-3/eecd6174fbb037b0e67e37d13a56d0dc/transformed/window-1.0.0/AndroidManifest.xml:27:13-37
 	android:name
-		ADDED from [androidx.window:window:1.0.0] C:\Users\santi\.gradle\caches\transforms-3\eecd6174fbb037b0e67e37d13a56d0dc\transformed\window-1.0.0\AndroidManifest.xml:26:13-54
+		ADDED from [androidx.window:window:1.0.0] /Users/santi/.gradle/caches/transforms-3/eecd6174fbb037b0e67e37d13a56d0dc/transformed/window-1.0.0/AndroidManifest.xml:26:13-54
 uses-library#androidx.window.sidecar
-ADDED from [androidx.window:window:1.0.0] C:\Users\santi\.gradle\caches\transforms-3\eecd6174fbb037b0e67e37d13a56d0dc\transformed\window-1.0.0\AndroidManifest.xml:28:9-30:40
+ADDED from [androidx.window:window:1.0.0] /Users/santi/.gradle/caches/transforms-3/eecd6174fbb037b0e67e37d13a56d0dc/transformed/window-1.0.0/AndroidManifest.xml:28:9-30:40
 	android:required
-		ADDED from [androidx.window:window:1.0.0] C:\Users\santi\.gradle\caches\transforms-3\eecd6174fbb037b0e67e37d13a56d0dc\transformed\window-1.0.0\AndroidManifest.xml:30:13-37
+		ADDED from [androidx.window:window:1.0.0] /Users/santi/.gradle/caches/transforms-3/eecd6174fbb037b0e67e37d13a56d0dc/transformed/window-1.0.0/AndroidManifest.xml:30:13-37
 	android:name
-		ADDED from [androidx.window:window:1.0.0] C:\Users\santi\.gradle\caches\transforms-3\eecd6174fbb037b0e67e37d13a56d0dc\transformed\window-1.0.0\AndroidManifest.xml:29:13-51
+		ADDED from [androidx.window:window:1.0.0] /Users/santi/.gradle/caches/transforms-3/eecd6174fbb037b0e67e37d13a56d0dc/transformed/window-1.0.0/AndroidManifest.xml:29:13-51
 meta-data#androidx.lifecycle.ProcessLifecycleInitializer
-ADDED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\santi\.gradle\caches\transforms-3\2a4534eef0f3d60e8ed17ddded7bb5c4\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:31:13-33:52
+ADDED from [androidx.lifecycle:lifecycle-process:2.4.1] /Users/santi/.gradle/caches/transforms-3/2a4534eef0f3d60e8ed17ddded7bb5c4/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:31:13-33:52
 	android:value
-		ADDED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\santi\.gradle\caches\transforms-3\2a4534eef0f3d60e8ed17ddded7bb5c4\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:33:17-49
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.1] /Users/santi/.gradle/caches/transforms-3/2a4534eef0f3d60e8ed17ddded7bb5c4/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:33:17-49
 	android:name
-		ADDED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\santi\.gradle\caches\transforms-3\2a4534eef0f3d60e8ed17ddded7bb5c4\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:32:17-78
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.1] /Users/santi/.gradle/caches/transforms-3/2a4534eef0f3d60e8ed17ddded7bb5c4/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:32:17-78

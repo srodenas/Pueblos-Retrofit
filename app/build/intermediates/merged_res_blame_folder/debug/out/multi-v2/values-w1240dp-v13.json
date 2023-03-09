@@ -4,7 +4,7 @@
             "outputFile": "com.pmdm.virgen.pueblosconnavigationdrawer2.app-mergeDebugResources-42:/values-w1240dp-v13/values-w1240dp-v13.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\santi\\Desktop\\PUEBLOS adaptado de Realm a Retrofit\\pueblos con Retrofit adaptado\\app\\src\\main\\res\\values-w1240dp\\dimens.xml",
+                    "source": "/Users/santi/Documents/trabajo_instituto/instituto_22_23/PMDM/PROYECTOS DE CLASE/android studio/VERSIONES APP PUEBLOS/ULTIMA VERSIÓN PUEBLOS API REST/Pueblos-Retrofit/app/src/main/res/values-w1240dp/dimens.xml",
                     "from": {
                         "startLines": "1",
                         "startColumns": "4",

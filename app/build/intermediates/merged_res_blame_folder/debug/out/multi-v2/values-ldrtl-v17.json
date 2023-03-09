@@ -4,7 +4,7 @@
             "outputFile": "com.pmdm.virgen.pueblosconnavigationdrawer2.app-mergeDebugResources-42:/values-ldrtl-v17/values-ldrtl-v17.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\santi\\.gradle\\caches\\transforms-3\\4cb9317d1f0b7576f6dd57f6ab831758\\transformed\\material-1.7.0\\res\\values-ldrtl-v17\\values-ldrtl-v17.xml",
+                    "source": "/Users/santi/.gradle/caches/transforms-3/4cb9317d1f0b7576f6dd57f6ab831758/transformed/material-1.7.0/res/values-ldrtl-v17/values-ldrtl-v17.xml",
                     "from": {
                         "startLines": "2,3",
                         "startColumns": "4,4",
